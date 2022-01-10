@@ -1,1 +1,1 @@
-# dhbw-projectmanagement1-2022spring
+# dhbw-projectmanagement1
