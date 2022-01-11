@@ -1,1 +1,1 @@
-# dhbw-projectmanagement1
+# DHBW Karlsruhe - Projektmanagement 1
