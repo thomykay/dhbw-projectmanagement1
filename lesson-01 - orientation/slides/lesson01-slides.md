@@ -8,6 +8,12 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 ---
 <!-- markdownlint-disable MD025 MD045 MD012 MD024 MD026 -->
 
+# Project Management 1
+
+## Lesson 01 - Orientation
+
+---
+
 <!-- backgroundColor: lightblue -->
 # Check-in
 
@@ -19,7 +25,7 @@ What concrete questions do I have towards project management?
 
 1. Find a partner (aka a breakout group with 1 participant) and share, 2 min each. ⏲️4min
 2. All: Come back to the main session and do a second round with a different partner. ⏲️4min
-3. Debrief
+3. Debrief ⏲️2min
 
 ---
 <!-- backgroundColor: default -->
@@ -92,8 +98,8 @@ footer: 'Source: [Remote Team Agreements and Protocols](https://www.holloway.com
 
 # Team Agreement, what's left
 
-* Let's form a crew of 3 - **Protocol Checkers** (team agreements, time etc.)
-* Let's form a crew of 3 - **Energize Crew** (helping with team agreement 6.)
+1. Let's form a crew of 3 - **Protocol Checkers** (team agreements, time etc.)
+2. Let's form a crew of 3 - **Energize Crew** (helping with team agreement 6.)
 
 ``` none
 Energizers are activities used in workshops and group situations
@@ -124,6 +130,18 @@ and understand one another.
 ---
 <!-- backgroundColor:  default -->
 
+# My Objectives for this Course
+
+* My first project(s)
+* Too many sources...
+  * [PMI: Agile Certified Practitioner](https://firebrand.training/de/kurse/pmi/acp-agile-certified-practitioner-zertifizierung)
+  * [scrum.org: Professional Scrum - Software Developer](https://www.scrum.org/resources/suggested-reading-professional-scrum-developer)
+  * [Scrum Alliance: Certified Scrum Developer](https://www.scrumalliance.org/get-certified/developer-track/certified-scrum-developer)
+
+> After this course you will be able to act successfully in your first projects as a Practitioner, with a solid foundation to continue your path towards mastery in product/service delivery.
+
+---
+
 # Coarse grained Course Structure
 
 ![](graphics/course-structure.drawio.svg)
@@ -139,10 +157,10 @@ and understand one another.
 # In-between Lessons, our first project
 
 * **Why**: Agile Project Practices are learned best when applied (and reflected)
-* **What**: Create a repository of mental models for teams to help project practitioners to succeed in their first projects
+* **What**: Create a repository of mental models for teams to help practitioners (like you) to succeed in their first projects
 * **How**:
   * **People**: We work as 5 teams on a single "product". I will be the Product Owner. Customers tbd
-  * **Processes**: Agile Project Liftoff, 3 weeks Scrum, Continuous Deployments
+  * **Processes**: Agile Project Liftoff, 3 weeks iterations, early (and continuous) deployments
   * **Tools**: vscode/IntelliJ, diagrams.net, markdown, Github Pages etc.
 
 ---
@@ -152,6 +170,7 @@ and understand one another.
 
 * A reminder to our first team agreements
 * project outcome
+* Exam?
 * Details to be defined (soon)
 
 ---
@@ -175,7 +194,7 @@ footer: 'Source: [Wolkenmetapher, Bernd Oestereich, Claudia Schröder](https://k
 
 # What is Project Management?
 
-> Project management is the use of specific knowledge, skills, tools and techniques to deliver something of value to people. The development of software for an improved business process, the construction of a building, the relief effort after a natural disaster, the expansion of sales into a new geographic market—these are all examples of projects.
+> Project management is the use of specific knowledge, skills, tools and techniques to deliver something of value to people. The development of software for an improved business process, the construction of a building, the relief effort after a natural disaster, the expansion of sales into a new geographic market - these are all examples of projects.
 
 <!--
 footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/learn-about-pmi/what-is-project-management)'
@@ -186,6 +205,20 @@ footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/le
 # Project Management Institutations and Communities
 
 ![](graphics/pm-institutions.drawio.svg)
+
+---
+<!-- backgroundColor: lightblue -->
+
+# Practice - Project Quotes Exploration
+
+1. Form 5 groups (of 4..5)
+2. Go to your respective frame in the worksheet
+3. Pick one of the quotes (⏲️10s, don't overthink)
+4. Work in the group to understand (write sticky notes)  ⏲️10min
+   1. **What**'s behind this quote?
+   2. **Now, what** else do you see here?
+   3. **So, what** what's the paradox, the both sides of the story?
+5. Come back to the whole group, share the quote and the paradox behind it. ⏲️5x2min
 
 ---
 
@@ -205,7 +238,7 @@ footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/le
 
 # Additional Material
 
-[Your colorful bag of PM bonbons (and other stuff...)](../material/lesson01-material.md)
+[Your colorful bag of PM candies (and other stuff...)](../material/lesson01-material.md)
 
 ---
 
@@ -262,6 +295,18 @@ footer: ''
 
 # All Models Are Wrong, Some Are Useful
 
+George E.P. Box
+
+---
+<!-- backgroundColor: lightblue -->
+# Practice - Mental Models
+
+1. Form 5 groups, every group talks about 1 mental model
+2. Round: Everyone shares briefly what she/he remembers from the mental model. ⏲️7min
+   1. Make notes
+   2. Use **Bingo**
+3. What's you mutual understanding as a group? ⏲️5min
+   1. Make notes, draw connections
 
 ---
 <!-- backgroundColor: lightblue -->
