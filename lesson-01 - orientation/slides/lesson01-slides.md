@@ -157,7 +157,7 @@ and understand one another.
 # In-between Lessons, our first project
 
 * **Why**: Agile Project Practices are learned best when applied (and reflected)
-* **What**: Create a repository of mental models for teams to help practitioners (like you) to succeed in their first projects
+* **What**: Create an online site of mental models for teams to help practitioners (like you) to succeed in their first projects.
 * **How**:
   * **People**: We work as 5 teams on a single "product". I will be the Product Owner. Customers tbd
   * **Processes**: Agile Project Liftoff, 3 weeks iterations, early (and continuous) deployments
