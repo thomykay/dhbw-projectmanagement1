@@ -15,7 +15,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 ---
 
 <!-- backgroundColor: lightblue -->
-# Check-in
+# Check In
 
 ``` none
 What aspects of project management are known to me?
@@ -64,6 +64,7 @@ A team agreement (or a team contract) is **a written document detailing how a te
 <!--
 footer: 'Source: [Remote Team Agreements and Protocols](https://www.holloway.com/g/remote-work/sections/remote-team-agreements-and-protocols)'
 -->
+
 ---
 
 # Our Team Agreement Proposal (v1)
@@ -78,6 +79,7 @@ footer: 'Source: [Remote Team Agreements and Protocols](https://www.holloway.com
 
 <!-- footer: ''
 -->
+
 ---
 <!-- backgroundColor: lightblue -->
 
@@ -180,7 +182,7 @@ and understand one another.
 > A Project is a temporary, unique and progressive attempt or endeavor made to produce some kind of a tangible or intangible result (a unique product, service, benefit, competitive advantage, etc.). It usually includes a series of interrelated tasks that are planned for execution over a fixed period of time and within certain requirements and limitations such as cost, quality, performance, others.
 
 <!--
-footer: 'Source: [WHAT IS A PROJECT? – DEFINITION AND KEY CHARACTERISTICS](https://mymanagementguide.com/basics/what-is-a-project/)'
+_footer: 'Source: [WHAT IS A PROJECT? – DEFINITION AND KEY CHARACTERISTICS](https://mymanagementguide.com/basics/what-is-a-project/)'
 -->
 
 ---
@@ -188,8 +190,9 @@ footer: 'Source: [WHAT IS A PROJECT? – DEFINITION AND KEY CHARACTERISTICS](htt
 ![120](graphics/mdl_wolkenmetapher.png)
 
 <!--
-footer: 'Source: [Wolkenmetapher, Bernd Oestereich, Claudia Schröder](https://kollegiale-fuehrung.de/download-material/?download=32d2a638b7c48255b367075daafb22fd)'
+_footer: 'Source: [Wolkenmetapher, Bernd Oestereich, Claudia Schröder](https://kollegiale-fuehrung.de/download-material/?download=32d2a638b7c48255b367075daafb22fd)'
 -->
+
 ---
 
 # What is Project Management?
@@ -197,7 +200,7 @@ footer: 'Source: [Wolkenmetapher, Bernd Oestereich, Claudia Schröder](https://k
 > Project management is the use of specific knowledge, skills, tools and techniques to deliver something of value to people. The development of software for an improved business process, the construction of a building, the relief effort after a natural disaster, the expansion of sales into a new geographic market - these are all examples of projects.
 
 <!--
-footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/learn-about-pmi/what-is-project-management)'
+_footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/learn-about-pmi/what-is-project-management)'
 -->
 
 ---
@@ -207,7 +210,7 @@ footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/le
 ![](graphics/pm-institutions.drawio.svg)
 
 ---
-<!-- backgroundColor: lightblue -->
+<!-- _backgroundColor: lightblue -->
 
 # Practice - Project Quotes Exploration
 
@@ -222,7 +225,7 @@ footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/le
 
 ---
 
-<!-- backgroundColor: LightPink -->
+<!-- _backgroundColor: LightPink -->
 
 ![bg right:30% 80%](../../graphics/noun-tools-1544052.svg)
 
@@ -238,11 +241,13 @@ footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/le
 
 # Additional Material
 
+<!-- _backgroundColor: LightPink -->
+
 [Your colorful bag of PM candies (and other stuff...)](../material/lesson01-material.md)
 
 ---
 
-<!-- backgroundColor: Wheat -->
+<!-- _backgroundColor: Wheat -->
 
 ![bg left:30% 80%](../../graphics/noun-networking-2148898.svg)
 
@@ -254,11 +259,8 @@ footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/le
 * **People/Process/Technology** - how it all fits together to make projects successful
 * **All Models Are Wrong, Some Are Useful** - be aware that models are simplifications of reality
 
-<!--
-footer: ''
--->
-
 ---
+<!-- _backgroundColor: Wheat -->
 
 # Mental Model - Shu-Ha-Ri
 
@@ -267,12 +269,14 @@ footer: ''
 footer: ''
 -->
 ---
+<!-- _backgroundColor: Wheat -->
 
 # Mental Model - Circle of Influence
 
 ![bg right:60% 80%](graphics/circle-of-influence.drawio.svg)
 
 ---
+<!-- _backgroundColor: Wheat -->
 
 # Mental Model - Growth Mindset
 
@@ -283,6 +287,7 @@ footer: 'Source: [How you can benefit from a growth mindset](https://www.atlassi
 -->
 
 ---
+<!-- _backgroundColor: Wheat -->
 
 # Mental Model - People/Processes/Tools
 
@@ -292,6 +297,7 @@ footer: 'Source: [How you can benefit from a growth mindset](https://www.atlassi
 footer: ''
 -->
 ---
+<!-- _backgroundColor: Wheat -->
 
 # All Models Are Wrong, Some Are Useful
 
@@ -319,7 +325,7 @@ What's my biggest learning or insight from today?
 * Popup. Whoever wants to share something, sense the space, open up the mic and speak. ⏲️3min
 
 ---
-<!-- backgroundColor: lightblue -->
+<!-- _backgroundColor: lightblue -->
 
 # Feedback
 

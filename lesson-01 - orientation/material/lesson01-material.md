@@ -2,20 +2,20 @@
 
 Additional material to listen, view and read.
 
-## 📚 Books
+## 📚Books
 
 * [Das kollegial geführte Unternehmen - Ideen und Praktiken für die agile Organisation von morgen](https://kollegiale-fuehrung.de/buch/), Bernd Oestereich, Claudia Schröder
 * [The Core Protocols V. 3.03](https://mccarthyshow.com/protocols/the-core-protocols-english-v3.03.pdf) - Jim McCarthy and Michele McCarthy
 
-## 🎧 Podcasts
+## 🎧Podcasts
 
 * [Scrum meistern](https://enablechange.de/podcast-scrum-meistern/) - Der Agile Podcast für Scrum Praktiker mit Denkanstößen, Tips und Inspirationen für deinen Arbeitsalltag, um Scrum effektiv für deine Umgebung zu nutzen.
 
-## 📺 Videos
+## 📺Videos
 
 * [The Expert (Short Comedy Sketch)](https://www.youtube.com/watch?v=BKorP55Aqvg)
 
-## 👟 Practices
+## 👟Practices
 
 * [20 online energizers for virtual teams and remote meetings](https://www.sessionlab.com/blog/online-energizers/)
 * [In this article, I share 26 online energizers...](https://bigbangpartnership.co.uk/26-online-energizers-for-virtual-teams-and-remote-meetings/)
@@ -30,7 +30,7 @@ Additional material to listen, view and read.
 
 * [PM Camp Virtual - 29. und 30. April 2022](https://www.pm-camp.org/wpx/camps-vor-ort/virtuell/)
 
-## Misc
+## 🧸Misc
 
 * [https://education.github.com/pack#offers](https://education.github.com/pack#offers)
 * [https://www.heroized.com/](https://www.heroized.com/)
