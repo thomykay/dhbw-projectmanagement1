@@ -22,8 +22,8 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 3. Pick one of the quotes (⏲️10s, don't overthink)
 4. Work in the group to understand (write sticky notes)  ⏲️5min
    1. **What**'s behind this quote?
-   2. **Now, what** else do you see here?
-   3. **So, what** what's the paradox, the both sides of the story?
+   2. **So, what** else do you see here?
+   3. **Now, what** what's the paradox, the both sides of the story?
 5. Come back to the whole group, share the quote and the paradox behind it. ⏲️5x1min
 
 ---
@@ -31,7 +31,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 # Today's session
 
 1. Mental Models of the Week
-   1. On-Page Universe
+   1. PairSensing, One-Page Universe
 2. Project Liftoff
    1. Project Canvas
    2. Our Project
@@ -239,6 +239,16 @@ _footer: Source: [Project Liftoff](https://www.projectmanagement.com/articles/27
 [More colorful candies - from Lesson 02](../material/lesson02-material.md)
 
 ---
+<!-- backgroundColor:  LightGreen -->
+# Practices we've used
+
+* **[What, So what, now what](https://www.liberatingstructures.com/9-what-so-what-now-what-w/)** - Sensemaking in a group
+* **[PairSensing, One-Pagers](http://urskr.blogspot.com/2014/03/one-pagers-tool-to-quickly-summarize.html)** - A tool to quickly summarize a topic
+* **[Project Liftoff](https://pragprog.com/titles/liftoff/liftoff-second-edition/)** - Building better beginnings through Agile Chartering
+* **[Project Canvas](https://www.openpm.info/display/openPM/Canvas)** - walk through a skeleton of topcis/questions to achieve a "good enough" outcome
+
+---
+
 <!-- _backgroundColor: lightblue -->
 # Check out
 

@@ -19,6 +19,7 @@
 * [Project Canvas - Over the Fence](https://overthefence.com.de/project-canvas/)
 * [Project Canvas - openpm](https://www.openpm.info/display/openPM/Canvas)
 * [The Pomodoro® Technique](https://francescocirillo.com/pages/pomodoro-technique)
+* [One-Pagers: A tool to quickly summarize a topic](http://urskr.blogspot.com/2014/03/one-pagers-tool-to-quickly-summarize.html)
 
 ## 📃Events
 
