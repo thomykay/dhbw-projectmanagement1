@@ -245,7 +245,7 @@ _footer: Source: [Project Liftoff](https://www.projectmanagement.com/articles/27
 * **[What, So what, now what](https://www.liberatingstructures.com/9-what-so-what-now-what-w/)** - Sensemaking in a group
 * **[PairSensing, One-Pagers](http://urskr.blogspot.com/2014/03/one-pagers-tool-to-quickly-summarize.html)** - A tool to quickly summarize a topic
 * **[Project Liftoff](https://pragprog.com/titles/liftoff/liftoff-second-edition/)** - Building better beginnings through Agile Chartering
-* **[Project Canvas](https://www.openpm.info/display/openPM/Canvas)** - walk through a skeleton of topcis/questions to achieve a "good enough" outcome
+* **[Project Canvas](https://www.openpm.info/display/openPM/Canvas)** - walk through a skeleton of topics/questions to achieve a "good enough" outcome
 
 ---
 
