@@ -60,7 +60,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 
 ---
-<!-- backgroundColor:  LightGreen -->
+<!-- _backgroundColor:  LightGreen -->
 # Practices we've used
 
 * xx
