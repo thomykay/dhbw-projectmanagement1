@@ -4,7 +4,7 @@ paginate: true
 title: DHBW - Project Management 1 - Lesson 05
 author: Thomas Krause
 theme: default
-header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson %lesson%'
+header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 05'
 ---
 <!-- markdownlint-disable MD025 MD045 MD012 MD024 MD026 -->
 
@@ -124,5 +124,5 @@ _footer: Source: [Scrum Guide](https://scrumguides.org/scrum-guide.html#sprint-r
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=173569)
+* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=175551)
 
