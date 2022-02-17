@@ -1,0 +1,204 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="584px" height="292px" viewBox="-0.5 -0.5 584 292" content="&lt;mxfile&gt;&lt;diagram id=&quot;iyCFgSYVUlgyrvShmqsW&quot; name=&quot;Page-1&quot;&gt;7Zhdj6MgFIZ/TS+nUVHbXk47Xxc72Um6yVxTPCopikH6tb9+oaL1qxs76XaTSTvJRF9A4DwvcmSEFsn+VeAsfucBsJFjBfsReho5judO1H8tHAph6qBCiAQNCsk+CUv6G4xoGXVDA8gbFSXnTNKsKRKepkBkQ8NC8F2zWshZs9cMR9ARlgSzrvpJAxmbWXjWSX8DGsVlz7ZlShJcVjZCHuOA72oSeh6hheBcFlfJfgFMx66MS9Hu5UxpNTABqRzSwC0abDHbmLktidgkSvoFODFjlIdy4oJv0gB0W3uE5ruYSlhmmOjSnSKttFgmzBTnUvB1FSA1tXlIGfssA+Pq2pjEGwGvuunT9CQ8ptGxS9fTz1mDJLF5aMhT+YITyrR13oBtQVKCVUGA87gaGRbEuEZZBs23IHQt9sholCpRcj1UbO6IihUIJZhYqMqwPxtPu6Kk3A08ASkOqoppMDVcjbEd19zvTjZxSzPENYs4MyNiY82oevSJnrowAPthOmdhvuNcT7GNU7kv05eYSC4GAK2DYHgF7IPnVFLeiGIZ7B+tCisuJU/64t6PR5tlwZkemBorCjBMQ1LZqlbikymsQuONpZmdfQWYNmrSRJMuTa8Hpn8Fln6H5XendwVgruU1gaHbAZvcgV0ODHnWfwM27QB7gi0wniV68Gc2wG+G8NpvTNTa/yq+N+BZJoc1oB+CBxuiYf7cpff971KaTmv/c264/9l2h+bI8ZnqYb5R9fxIHt9AhcJoW8kznJYaURPO9XBWfKO9IGNQ/8vUKBOKPiW6RtFUjazeuiZ3u/l7xwISvj12zVe5xIR9rRMl1qfc8rDCK/vy7tIgKU+h5SYjlT5kEMoeFyY0CHQnvavi9CFgtXPvYen6Few5a7rTnXgdd9p99kTXsGc31x5izwSn6tswr0yYVS+oFSZrxqOBbuOZpIn6wMkbzygGc7fSFzL9lpfQ9JZeQl/yUg4sfOAiwin9TdOhzqF6zwloTmjGaIr1SO9+uTzPcVrvHr+7M/47v/Qc2ki8hpizAER+z3IuY+lbrSznljnrgM/8OprytLDhfGtItKslVboh2Uf6bHZcnIc6Y7njn/jwqO/0w3UwrLE70dc6UI49Rs7gJdaiGnr6zzSo6cWvl/bxd1ztEhtrPXjXWbyuNxvP3CZzfzr2Z90ljHq4u5dzV7enI91jWe1cHD3/AQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <style type="text/css">
+            /* latin */
+@font-face {
+  font-family: 'Architects Daughter';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.gstatic.com/s/architectsdaughter/v17/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg4w.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+        </style>
+    </defs>
+    <g>
+        <rect x="1" y="1" width="400" height="290" rx="29" ry="29" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 28.01 -0.77 L 373.64 0.15 L 378.8 2.91 L 390.22 6.59 L 397.32 10.46 L 399.75 18.76 L 399.1 29.66 L 401.32 261.92 L 401.5 267.87 L 395.26 280.18 L 389.33 287.89 L 383.74 288.54 L 373.87 290.55 L 28.8 290.21 L 21.31 291.15 L 12.14 286.34 L 4.92 279.21 L 3.07 276.6 L 2.41 261.32 L 1.18 31.22 L 0.9 17.85 L 7.79 6.72 L 17.33 2.16 L 30.22 0.38" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <path d="M 30 1 M 30 1 C 103.44 0.27 176.81 0.03 372 1 M 30 1 C 98.45 2.18 167.78 2.07 372 1 M 372 1 C 391.46 -0.27 400.87 9.61 401 30 M 372 1 C 389.15 1.54 402.85 10.89 401 30 M 401 30 C 402.35 106.1 402.58 183.92 401 262 M 401 30 C 399.24 121.81 398.83 211.93 401 262 M 401 262 C 400.23 279.85 392.5 291.01 372 291 M 401 262 C 400.05 281.33 389.93 289.06 372 291 M 372 291 C 250.79 291.15 130.46 291.89 30 291 M 372 291 C 301.61 289.91 231.54 289.67 30 291 M 30 291 C 10.17 291.64 -0.51 279.76 1 262 M 30 291 C 9.29 288.84 0.3 280.03 1 262 M 1 262 C -1.56 182.61 0.22 102.08 1 30 M 1 262 C 0.07 172.08 -1.25 81.55 1 30 M 1 30 C 2.47 11.74 9.16 -0.98 30 1 M 1 30 C 2.53 10.62 9.56 0.57 30 1" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="6 6" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 398px; height: 1px; padding-top: 8px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Scrum Team
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="201" y="20" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Scrum Team
+                </text>
+            </switch>
+        </g>
+        <path d="M 51 191 C 51 167 51 155 76 155 C 59.33 155 59.33 131 76 131 C 92.67 131 92.67 155 76 155 C 101 155 101 167 101 191 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 64.29 138.58 C 64.29 138.58 64.29 138.58 64.29 138.58 M 64.29 138.58 C 64.29 138.58 64.29 138.58 64.29 138.58 M 64.03 144.98 C 66.85 143.48 69.49 140.13 75.84 131.39 M 64.03 144.98 C 69.27 139.71 72.77 134.55 75.84 131.39 M 65.74 149.11 C 70.55 145.86 74.98 138.37 80.83 131.75 M 65.74 149.11 C 70.05 144.11 75.69 138.55 80.83 131.75 M 56.29 166.07 C 58 163.24 62.08 159.48 62.85 158.53 M 56.29 166.07 C 58.15 164.21 59.69 161.71 62.85 158.53 M 68.1 152.49 C 74.93 147.44 78.93 139.74 83.85 134.38 M 68.1 152.49 C 71.15 149.06 76.52 144.78 83.85 134.38 M 52.75 176.25 C 60.63 168.02 64.67 160.95 69.15 157.38 M 52.75 176.25 C 56.78 172.18 60.64 165.35 69.15 157.38 M 71.12 155.11 C 76.32 147.82 82.37 144.43 86.86 137 M 71.12 155.11 C 74.25 150.85 79.38 146.15 86.86 137 M 52.49 182.64 C 58.6 175.05 65.24 168.12 76.11 155.47 M 52.49 182.64 C 59.36 175.29 66.63 167.35 76.11 155.47 M 76.11 155.47 C 79.56 148.14 87.53 143.41 89.23 140.38 M 76.11 155.47 C 79.77 150.14 84.4 145.83 89.23 140.38 M 52.23 189.04 C 64.79 176.14 72.16 165.06 81.09 155.83 M 52.23 189.04 C 59.97 181.84 66.56 172.8 81.09 155.83 M 53.93 193.17 C 64.66 181.36 76.63 166.37 85.42 156.95 M 53.93 193.17 C 66.18 180.25 76.81 167.61 85.42 156.95 M 58.92 193.53 C 68.17 185.42 73.25 176.22 90.41 157.31 M 58.92 193.53 C 65.05 185.3 73.01 176.99 90.41 157.31 M 64.56 193.14 C 74.25 183.72 82.54 173.12 93.43 159.93 M 64.56 193.14 C 70.94 186.54 76.91 178.87 93.43 159.93 M 69.55 193.5 C 80.45 182.51 87.79 171.56 96.45 162.56 M 69.55 193.5 C 78.12 184.27 86.48 173.42 96.45 162.56 M 75.19 193.11 C 84.01 182.46 91.23 175.25 99.47 165.18 M 75.19 193.11 C 79.94 186.29 86.58 180.56 99.47 165.18 M 80.18 193.47 C 85.89 187.35 91.23 181.28 100.52 170.07 M 80.18 193.47 C 86.16 187.4 93.52 179.95 100.52 170.07 M 85.82 193.07 C 91.85 185.37 98.39 178.49 100.91 175.71 M 85.82 193.07 C 90.84 188.38 95.08 182.81 100.91 175.71 M 90.81 193.43 C 93.44 188.65 97.82 186.6 101.31 181.36 M 90.81 193.43 C 93.8 191.26 95.41 188.54 101.31 181.36 M 96.45 193.04 C 97.76 190.84 100.5 189.61 101.05 187.75 M 96.45 193.04 C 97.67 191.89 98.73 190.75 101.05 187.75" fill="none" stroke="#dae8fc" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 51 191 M 51 191 C 52.72 168.55 50.29 155.59 76 155 M 51 191 C 52.61 165.22 50.45 154.82 76 155 M 76 155 C 58.89 154.72 59.24 129.31 76 131 M 76 155 C 58.79 157.26 59.34 128.86 76 131 M 76 131 C 94.28 131.31 94.03 153.96 76 155 M 76 131 C 93.91 129.21 94.37 154.98 76 155 M 76 155 C 99.18 153.56 100.84 168.91 101 191 M 76 155 C 101.15 154.3 100.87 168.14 101 191 M 101 191 C 87.27 189 76.31 189.42 51 191 M 101 191 C 81.81 190.22 64.73 190.47 51 191" fill="none" stroke="#6c8ebf" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 198px; margin-left: 52px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Scrum Master
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="76" y="210" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Scrum Ma...
+                </text>
+            </switch>
+        </g>
+        <path d="M 326 151 C 326 127 326 115 351 115 C 334.33 115 334.33 91 351 91 C 367.67 91 367.67 115 351 115 C 376 115 376 127 376 151 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 339.29 98.58 C 339.29 98.58 339.29 98.58 339.29 98.58 M 339.29 98.58 C 339.29 98.58 339.29 98.58 339.29 98.58 M 339.03 104.98 C 342.02 98.62 349.42 95.76 350.84 91.39 M 339.03 104.98 C 342.03 100.21 345.79 97.4 350.84 91.39 M 340.74 109.11 C 343.88 101.47 348.91 99.18 355.83 91.75 M 340.74 109.11 C 345.61 105.18 348.8 99.8 355.83 91.75 M 331.29 126.07 C 333.84 123.43 336.74 121.57 337.85 118.53 M 331.29 126.07 C 333.49 123.96 335.4 122.09 337.85 118.53 M 343.1 112.49 C 347.2 108.42 352.97 101.51 358.85 94.38 M 343.1 112.49 C 347.62 107.99 351.21 103.42 358.85 94.38 M 327.75 136.25 C 332.72 129.97 336.09 126.42 344.15 117.38 M 327.75 136.25 C 333.47 130.92 338.26 124.44 344.15 117.38 M 346.12 115.11 C 349.45 111.41 351.59 108.55 361.86 97 M 346.12 115.11 C 351.56 106.91 358.38 100.68 361.86 97 M 327.49 142.64 C 334 135.63 340.8 125.73 351.11 115.47 M 327.49 142.64 C 336.21 133.06 344.21 123.49 351.11 115.47 M 351.11 115.47 C 356.14 110.54 360.23 104.67 364.23 100.38 M 351.11 115.47 C 355.79 109.86 359.89 103.98 364.23 100.38 M 327.23 149.04 C 336 140.98 345.74 127.62 356.09 115.83 M 327.23 149.04 C 336.72 136.81 346.94 126.1 356.09 115.83 M 328.93 153.17 C 339.28 142.24 348.62 131.25 360.42 116.95 M 328.93 153.17 C 340.72 139.5 351.88 126.97 360.42 116.95 M 333.92 153.53 C 342.53 144.38 352.11 136 365.41 117.31 M 333.92 153.53 C 339.47 145.1 347.15 138.2 365.41 117.31 M 339.56 153.14 C 346.01 144.33 358.28 131.98 368.43 119.93 M 339.56 153.14 C 348.05 143 357.07 133.2 368.43 119.93 M 344.55 153.5 C 350.63 144.66 359.16 138.18 371.45 122.56 M 344.55 153.5 C 351.39 146.3 357.86 139.26 371.45 122.56 M 350.19 153.11 C 354.63 145.61 359.61 141.62 374.47 125.18 M 350.19 153.11 C 356.21 144.54 362.91 138.76 374.47 125.18 M 355.18 153.47 C 360.8 148.57 366.5 140.22 375.52 130.07 M 355.18 153.47 C 362.39 145.96 368.45 136.6 375.52 130.07 M 360.82 153.07 C 365.42 149.6 372.06 142.47 375.91 135.71 M 360.82 153.07 C 364.26 148.99 366.42 145.61 375.91 135.71 M 365.81 153.43 C 370.07 150.47 372.64 146.39 376.31 141.36 M 365.81 153.43 C 369.53 147.94 374.16 144.54 376.31 141.36 M 371.45 153.04 C 372.17 151.63 374.62 150.16 376.05 147.75 M 371.45 153.04 C 373.21 151.59 374.66 149.63 376.05 147.75" fill="none" stroke="#dae8fc" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 326 151 M 326 151 C 324.59 127.44 327.67 114.68 351 115 M 326 151 C 324.12 124.85 325.03 113.05 351 115 M 351 115 C 335.7 116.49 333.74 89.48 351 91 M 351 115 C 335.63 112.94 332.18 89.26 351 91 M 351 91 C 365.7 89.65 366.53 113.27 351 115 M 351 91 C 369.14 93.1 366.5 116.62 351 115 M 351 115 C 374.93 116.4 375.73 128.16 376 151 M 351 115 C 375.87 114.67 376.2 125.19 376 151 M 376 151 C 361.03 150.35 347.62 152.47 326 151 M 376 151 C 362.56 151.12 349.2 151.38 326 151" fill="none" stroke="#6c8ebf" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 271 151 C 271 127 271 115 296 115 C 279.33 115 279.33 91 296 91 C 312.67 91 312.67 115 296 115 C 321 115 321 127 321 151 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 284.29 98.58 C 284.29 98.58 284.29 98.58 284.29 98.58 M 284.29 98.58 C 284.29 98.58 284.29 98.58 284.29 98.58 M 284.03 104.98 C 288.44 102.65 289.27 97.22 295.84 91.39 M 284.03 104.98 C 287.82 100.51 290.3 97.84 295.84 91.39 M 285.74 109.11 C 291.7 103.24 294.13 99.12 300.83 91.75 M 285.74 109.11 C 290.25 102.58 295.07 97.37 300.83 91.75 M 276.29 126.07 C 277.76 123.86 280.54 121.35 282.85 118.53 M 276.29 126.07 C 277.42 124.28 279.09 122.69 282.85 118.53 M 288.1 112.49 C 294.91 104.86 298.7 98.33 303.85 94.38 M 288.1 112.49 C 293.06 105.75 298.29 100.3 303.85 94.38 M 272.75 136.25 C 280.73 130.49 286.58 119.94 289.15 117.38 M 272.75 136.25 C 277.17 131.87 282.36 126.43 289.15 117.38 M 291.12 115.11 C 295.56 110.26 300.29 104.73 306.86 97 M 291.12 115.11 C 298.03 109.14 303.49 100.44 306.86 97 M 272.49 142.64 C 278.7 132.65 287.54 126.02 296.11 115.47 M 272.49 142.64 C 279.99 134.36 286.99 124.74 296.11 115.47 M 296.11 115.47 C 298.42 110.54 301.56 109.65 309.23 100.38 M 296.11 115.47 C 300.31 111.73 302.96 106.97 309.23 100.38 M 272.23 149.04 C 280.61 141 284.5 132.72 301.09 115.83 M 272.23 149.04 C 282.49 135.55 292.61 123.43 301.09 115.83 M 273.93 153.17 C 281.64 140.62 294.33 131.63 305.42 116.95 M 273.93 153.17 C 284.75 140.31 296.04 126.81 305.42 116.95 M 278.92 153.53 C 285.44 144.62 292.56 139.25 310.41 117.31 M 278.92 153.53 C 290.8 139.78 303.21 125.99 310.41 117.31 M 284.56 153.14 C 293.47 141.82 303.19 132.38 313.43 119.93 M 284.56 153.14 C 295.36 142.25 305.58 128.25 313.43 119.93 M 289.55 153.5 C 297.27 143.38 304.79 134.92 316.45 122.56 M 289.55 153.5 C 297.3 145.75 304.65 137.13 316.45 122.56 M 295.19 153.11 C 300.17 147.13 306.8 138.54 319.47 125.18 M 295.19 153.11 C 303.09 143.21 310.53 134.51 319.47 125.18 M 300.18 153.47 C 309.05 143.85 316.87 134.58 320.52 130.07 M 300.18 153.47 C 305.4 148.14 311.1 142.15 320.52 130.07 M 305.82 153.07 C 311.31 148.45 312.22 146.12 320.91 135.71 M 305.82 153.07 C 311.88 146.53 317.54 138.71 320.91 135.71 M 310.81 153.43 C 314.62 150.34 317.53 146.55 321.31 141.36 M 310.81 153.43 C 313.66 149.38 317.07 146.41 321.31 141.36 M 316.45 153.04 C 318.3 151.51 319.15 149.38 321.05 147.75 M 316.45 153.04 C 317.59 151.39 319.25 149.84 321.05 147.75" fill="none" stroke="#dae8fc" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 271 151 M 271 151 C 271.81 125.16 270.27 115.45 296 115 M 271 151 C 269.39 128.21 271.07 113.75 296 115 M 296 115 C 278.15 114.93 278.61 90.52 296 91 M 296 115 C 277.65 116.46 281.24 90.51 296 91 M 296 91 C 313.81 89.23 312.9 116.1 296 115 M 296 91 C 313.05 89.47 313.08 113.58 296 115 M 296 115 C 321.12 116.11 320.7 126.98 321 151 M 296 115 C 319.65 113.61 321.28 127.9 321 151 M 321 151 C 305.21 152.93 283.7 149.48 271 151 M 321 151 C 304.49 150.84 285.57 151.11 271 151" fill="none" stroke="#6c8ebf" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 301 171 C 301 147 301 135 326 135 C 309.33 135 309.33 111 326 111 C 342.67 111 342.67 135 326 135 C 351 135 351 147 351 171 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 314.29 118.58 C 314.29 118.58 314.29 118.58 314.29 118.58 M 314.29 118.58 C 314.29 118.58 314.29 118.58 314.29 118.58 M 314.03 124.98 C 318.62 120.59 318.84 117.09 325.84 111.39 M 314.03 124.98 C 316.81 122.37 319.8 118.04 325.84 111.39 M 315.74 129.11 C 320.53 125.01 324.36 119.05 330.83 111.75 M 315.74 129.11 C 320.23 121.98 326.7 116.95 330.83 111.75 M 306.29 146.07 C 308.53 144.29 309.19 143.13 312.85 138.53 M 306.29 146.07 C 308.81 143.08 311.56 140.27 312.85 138.53 M 318.1 132.49 C 320.84 128.91 327.49 122.39 333.85 114.38 M 318.1 132.49 C 322.36 127.46 326.06 124.74 333.85 114.38 M 302.75 156.25 C 306.08 150.78 311.12 145 319.15 137.38 M 302.75 156.25 C 307.86 152.5 311.47 146.09 319.15 137.38 M 321.12 135.11 C 326.66 129.43 334 121.21 336.86 117 M 321.12 135.11 C 327.51 129.06 333.59 121.88 336.86 117 M 302.49 162.64 C 308.94 153.68 315.81 146.3 326.11 135.47 M 302.49 162.64 C 309.31 155.66 317.32 146 326.11 135.47 M 326.11 135.47 C 328.62 131.51 333.45 128.58 339.23 120.38 M 326.11 135.47 C 330.45 130.59 336.28 123.92 339.23 120.38 M 302.23 169.04 C 312 158.37 323.81 144.54 331.09 135.83 M 302.23 169.04 C 313.92 156.87 325.96 143.33 331.09 135.83 M 303.93 173.17 C 313.72 162.36 321.75 151.37 335.42 136.95 M 303.93 173.17 C 316.5 159.12 327.92 146.65 335.42 136.95 M 308.92 173.53 C 319.64 162.24 330.61 148.64 340.41 137.31 M 308.92 173.53 C 320.12 159.07 332.95 145.64 340.41 137.31 M 314.56 173.14 C 326.6 159.31 337.76 148.77 343.43 139.93 M 314.56 173.14 C 322.56 165.56 328.21 158 343.43 139.93 M 319.55 173.5 C 328.91 162.09 339.42 151.65 346.45 142.56 M 319.55 173.5 C 328.21 164.68 336.44 154.45 346.45 142.56 M 325.19 173.11 C 330.15 164.16 338.44 158.98 349.47 145.18 M 325.19 173.11 C 334.98 162.36 343.15 150.75 349.47 145.18 M 330.18 173.47 C 334.22 167.39 340.11 161.89 350.52 150.07 M 330.18 173.47 C 337.01 165.24 344.41 155.93 350.52 150.07 M 335.82 173.07 C 341.56 168.13 347.76 159.13 350.91 155.71 M 335.82 173.07 C 341.48 165.83 347.63 161.06 350.91 155.71 M 340.81 173.43 C 344.17 170 347.42 166.49 351.31 161.36 M 340.81 173.43 C 344.88 168.4 349.18 165.06 351.31 161.36 M 346.45 173.04 C 348.13 171.49 350.2 168.68 351.05 167.75 M 346.45 173.04 C 347.67 171.88 348.85 170.04 351.05 167.75" fill="none" stroke="#dae8fc" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 301 171 M 301 171 C 300.03 146.88 301.87 136.23 326 135 M 301 171 C 299.67 146.97 302.12 134.46 326 135 M 326 135 C 309.6 133.37 308.49 111.56 326 111 M 326 135 C 309.26 135.38 310.7 111.76 326 111 M 326 111 C 342.92 112.82 344.28 134.92 326 135 M 326 111 C 341.96 110.44 344.66 135.15 326 135 M 326 135 C 352.31 135.83 350.68 145.79 351 171 M 326 135 C 353.04 137.15 351.37 146.01 351 171 M 351 171 C 340.4 171.52 328.77 170.49 301 171 M 351 171 C 339.43 170.57 328.94 170.84 301 171" fill="none" stroke="#6c8ebf" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 178px; margin-left: 302px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Development Team
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="326" y="190" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Developm...
+                </text>
+            </switch>
+        </g>
+        <path d="M 151 91 C 151 67 151 55 176 55 C 159.33 55 159.33 31 176 31 C 192.67 31 192.67 55 176 55 C 201 55 201 67 201 91 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 164.29 38.58 C 164.29 38.58 164.29 38.58 164.29 38.58 M 164.29 38.58 C 164.29 38.58 164.29 38.58 164.29 38.58 M 164.03 44.98 C 166.67 40.95 169 38.74 175.84 31.39 M 164.03 44.98 C 167.47 40.22 171.21 36.55 175.84 31.39 M 165.74 49.11 C 171.62 44.24 175 40.28 180.83 31.75 M 165.74 49.11 C 169.97 45.87 172.76 41.5 180.83 31.75 M 156.29 66.07 C 157.16 64.02 159.46 61.44 162.85 58.53 M 156.29 66.07 C 157.98 64.3 160.07 62.33 162.85 58.53 M 168.1 52.49 C 171.53 49.36 176.32 40.99 183.85 34.38 M 168.1 52.49 C 171.73 47.18 177.11 42.84 183.85 34.38 M 152.75 76.25 C 157.91 73.22 158 69.02 169.15 57.38 M 152.75 76.25 C 155.99 72.8 159.18 68.34 169.15 57.38 M 171.12 55.11 C 175.94 51.69 177.76 48.47 186.86 37 M 171.12 55.11 C 177.03 49.34 181.78 42.73 186.86 37 M 152.49 82.64 C 158.47 76.23 166.4 69.47 176.11 55.47 M 152.49 82.64 C 159.96 74.09 168.14 64.91 176.11 55.47 M 176.11 55.47 C 181.77 49.28 186.77 45.94 189.23 40.38 M 176.11 55.47 C 179.26 50.77 184.01 47.99 189.23 40.38 M 152.23 89.04 C 160.53 79.03 172.73 66.14 181.09 55.83 M 152.23 89.04 C 160.88 79.53 168.33 70.3 181.09 55.83 M 153.93 93.17 C 159.61 85.37 166.43 76.15 185.42 56.95 M 153.93 93.17 C 160.78 84.35 168.72 77.93 185.42 56.95 M 158.92 93.53 C 170.11 80.77 182.73 67.21 190.41 57.31 M 158.92 93.53 C 171.14 80.07 183.34 67.42 190.41 57.31 M 164.56 93.14 C 176.3 82.22 183.28 69.77 193.43 59.93 M 164.56 93.14 C 175.65 80.61 187.26 68.48 193.43 59.93 M 169.55 93.5 C 179.32 82.11 189.63 72.1 196.45 62.56 M 169.55 93.5 C 178.21 83.12 186.51 73 196.45 62.56 M 175.19 93.11 C 181.75 84.61 187.58 80.48 199.47 65.18 M 175.19 93.11 C 182.01 84.34 189.82 77.51 199.47 65.18 M 180.18 93.47 C 187.83 86.09 190.29 78.56 200.52 70.07 M 180.18 93.47 C 186.27 85.12 193.89 76.66 200.52 70.07 M 185.82 93.07 C 190.16 87.5 195.58 83.74 200.91 75.71 M 185.82 93.07 C 189.34 87.65 194.11 81.65 200.91 75.71 M 190.81 93.43 C 194.86 87.34 199.46 84.61 201.31 81.36 M 190.81 93.43 C 194.09 89.44 195.93 86.62 201.31 81.36 M 196.45 93.04 C 198.11 91.16 198.5 90.26 201.05 87.75 M 196.45 93.04 C 197.51 91.65 199.15 90.27 201.05 87.75" fill="none" stroke="#dae8fc" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 151 91 M 151 91 C 150.02 68.26 152.12 54.45 176 55 M 151 91 C 150.5 69.01 151.83 56.72 176 55 M 176 55 C 158.36 55.97 158.32 32.4 176 31 M 176 55 C 160.67 56.08 159.52 31.79 176 31 M 176 31 C 191.36 29.67 194.16 54.87 176 55 M 176 31 C 194.23 28.91 194.03 53.23 176 55 M 176 55 C 200.89 53.48 199.48 65.97 201 91 M 176 55 C 198.73 56.83 202.88 65.77 201 91 M 201 91 C 183.61 92 167.83 90.36 151 91 M 201 91 C 190.17 91.03 179.99 90.94 151 91" fill="none" stroke="#6c8ebf" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 98px; margin-left: 152px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Product Owner
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="176" y="110" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Product...
+                </text>
+            </switch>
+        </g>
+        <rect x="11" y="236" width="150" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 148px; height: 1px; padding-top: 251px; margin-left: 13px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <ul>
+                                    <li>
+                                        <span>
+                                            cares about the Scrum practices
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span>
+                                            removes obstacles
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="13" y="255" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    cares about the Scrum pra...
+                </text>
+            </switch>
+        </g>
+        <rect x="111" y="146" width="150" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 148px; height: 1px; padding-top: 161px; margin-left: 113px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <ul>
+                                    <li>
+                                        manages the product backlog
+                                    </li>
+                                    <li>
+                                        optimizes product value
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="113" y="165" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    manages the product backl...
+                </text>
+            </switch>
+        </g>
+        <rect x="241" y="221" width="150" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 148px; height: 1px; padding-top: 236px; margin-left: 243px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <ul>
+                                    <li>
+                                        self-organizing
+                                    </li>
+                                    <li>
+                                        interdisciplinary
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="243" y="240" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    self-organizinginterdisci...
+                </text>
+            </switch>
+        </g>
+        <path d="M 521 71 C 521 47 521 35 546 35 C 529.33 35 529.33 11 546 11 C 562.67 11 562.67 35 546 35 C 571 35 571 47 571 71 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 534.29 18.58 C 534.29 18.58 534.29 18.58 534.29 18.58 M 534.29 18.58 C 534.29 18.58 534.29 18.58 534.29 18.58 M 534.03 24.98 C 536.84 19.69 543.93 14.38 545.84 11.39 M 534.03 24.98 C 537.03 22.51 539.23 19.39 545.84 11.39 M 535.74 29.11 C 539.95 23.85 547.93 17.09 550.83 11.75 M 535.74 29.11 C 541.2 21.77 546.55 16.11 550.83 11.75 M 526.29 46.07 C 527.86 44.22 528.97 43.53 532.85 38.53 M 526.29 46.07 C 528.16 44.18 529.62 41.85 532.85 38.53 M 538.1 32.49 C 541.96 26.71 551.66 19.51 553.85 14.38 M 538.1 32.49 C 541.19 28.12 546.81 23.49 553.85 14.38 M 522.75 56.25 C 528.66 51.08 535.36 42.62 539.15 37.38 M 522.75 56.25 C 527.68 51.87 531.79 45.76 539.15 37.38 M 541.12 35.11 C 547.22 27.35 552.28 25.04 556.86 17 M 541.12 35.11 C 546.19 29.33 549.48 24.82 556.86 17 M 522.49 62.64 C 528.88 57.28 532.97 47.55 546.11 35.47 M 522.49 62.64 C 532.35 51.86 541.26 41.05 546.11 35.47 M 546.11 35.47 C 549.35 31.68 554.46 23.21 559.23 20.38 M 546.11 35.47 C 550.28 30.49 554.49 26.14 559.23 20.38 M 522.23 69.04 C 530.74 59.88 537.32 52.7 551.09 35.83 M 522.23 69.04 C 534.63 56.51 545.71 41.61 551.09 35.83 M 523.93 73.17 C 535.53 59 550.02 46.53 555.42 36.95 M 523.93 73.17 C 530.33 63.6 538.8 55.3 555.42 36.95 M 528.92 73.53 C 538.75 59.1 551.86 46.37 560.41 37.31 M 528.92 73.53 C 540.56 61.87 550.48 48.64 560.41 37.31 M 534.56 73.14 C 543.73 63.4 554.69 53.21 563.43 39.93 M 534.56 73.14 C 541.99 65.14 548.88 55.52 563.43 39.93 M 539.55 73.5 C 544.51 64.81 552 59.26 566.45 42.56 M 539.55 73.5 C 546.48 64.61 552.89 56.3 566.45 42.56 M 545.19 73.11 C 552.23 62.17 560.67 51.68 569.47 45.18 M 545.19 73.11 C 553.27 62.59 561.15 53.7 569.47 45.18 M 550.18 73.47 C 558.21 67.32 561.03 57.5 570.52 50.07 M 550.18 73.47 C 557.5 63.68 565.81 55.31 570.52 50.07 M 555.82 73.07 C 559.08 67.73 560.6 63.71 570.91 55.71 M 555.82 73.07 C 559.76 69.97 562.46 66.14 570.91 55.71 M 560.81 73.43 C 563.06 69.37 569.04 64.6 571.31 61.36 M 560.81 73.43 C 562.96 70.36 565.73 67.66 571.31 61.36 M 566.45 73.04 C 567.62 71.94 569.12 70.81 571.05 67.75 M 566.45 73.04 C 568.06 71.35 569.38 69.16 571.05 67.75" fill="none" stroke="#dae8fc" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 521 71 M 521 71 C 520.9 47.15 520.51 33.54 546 35 M 521 71 C 521.6 48.64 521.4 34.95 546 35 M 546 35 C 530.17 33.74 527.82 12.56 546 11 M 546 35 C 527.91 36.36 527.37 12.2 546 11 M 546 11 C 561.79 12.01 561.66 34.17 546 35 M 546 11 C 564.46 12.79 561.16 34.87 546 35 M 546 35 C 571.64 36.32 569.38 45.23 571 71 M 546 35 C 573.05 37.19 573.21 47.41 571 71 M 571 71 C 552.36 69.34 534.14 69.41 521 71 M 571 71 C 555.92 69.93 539.46 71.85 521 71" fill="none" stroke="#6c8ebf" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 78px; margin-left: 522px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                Stakeholders
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="546" y="90" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Stakehol...
+                </text>
+            </switch>
+        </g>
+        <path d="M 402.26 39.09 L 489.62 39.09 L 489.62 29.69 L 510.94 49.69 L 489.62 69.69 L 489.62 60.29 L 402.26 60.29 L 402.26 69.69 L 380.94 49.69 L 402.26 29.69 Z" fill="none" stroke="none" transform="rotate(-5,445.94,49.69)" pointer-events="all"/>
+        <path d="M 381 49.62 C 381 49.62 381 49.62 381 49.62 M 381 49.62 C 381 49.62 381 49.62 381 49.62 M 384.02 52.24 C 390.3 46.98 391.54 42.81 403.05 30.36 M 384.02 52.24 C 389.84 44.1 398.21 35.45 403.05 30.36 M 387.04 54.87 C 393.09 48.95 396.05 46.31 402.78 36.75 M 387.04 54.87 C 391.63 49.6 395.42 45.57 402.78 36.75 M 389.4 58.25 C 395.45 52.54 400.41 48.86 404.49 40.89 M 389.4 58.25 C 394.47 51.89 399.78 46.55 404.49 40.89 M 392.42 60.87 C 399.72 55.09 402.73 47.79 409.48 41.25 M 392.42 60.87 C 397.59 55.89 401.66 50.72 409.48 41.25 M 395.44 63.49 C 400.8 53.85 410.28 49.87 415.12 40.85 M 395.44 63.49 C 402.3 55.13 409.78 45.86 415.12 40.85 M 398.46 66.12 C 400.15 64.35 401 63.21 403.05 60.84 M 398.46 66.12 C 399.51 65.01 400.86 63.36 403.05 60.84 M 403.05 60.84 C 407.72 55.39 410.27 50.04 420.11 41.21 M 403.05 60.84 C 408.29 54.76 415.02 48.37 420.11 41.21 M 401.48 68.74 C 401.95 68.46 402.14 67.91 402.79 67.23 M 401.48 68.74 C 401.86 68.32 402.46 67.8 402.79 67.23 M 408.04 61.2 C 413.75 53.65 418.72 46.24 425.75 40.82 M 408.04 61.2 C 411.99 56.49 416.37 50.56 425.75 40.82 M 413.68 60.8 C 419.82 53.16 427.47 47.04 430.74 41.18 M 413.68 60.8 C 417.8 54.95 422.91 50.88 430.74 41.18 M 418.67 61.16 C 425.16 56.34 429.46 50.12 436.38 40.78 M 418.67 61.16 C 425.13 53.41 429.38 48.07 436.38 40.78 M 424.31 60.77 C 426.18 55.56 431.75 52.7 441.37 41.14 M 424.31 60.77 C 428.73 56.19 431.82 51.62 441.37 41.14 M 429.3 61.13 C 437.95 53.41 443.86 44.01 447.01 40.75 M 429.3 61.13 C 435.05 54.69 440.11 46.76 447.01 40.75 M 434.94 60.73 C 439.66 51.67 448.56 43.28 452 41.11 M 434.94 60.73 C 440.03 55.39 444.58 50.49 452 41.11 M 439.93 61.09 C 445.08 54.35 451.24 48.35 457.64 40.72 M 439.93 61.09 C 445.84 51.81 454.45 44.7 457.64 40.72 M 445.57 60.7 C 450.18 57.26 455.81 50.75 462.63 41.08 M 445.57 60.7 C 452.43 53.6 457.83 45.56 462.63 41.08 M 450.56 61.06 C 457.84 53.29 463.76 46.24 468.27 40.68 M 450.56 61.06 C 457.83 52.39 465.3 44 468.27 40.68 M 456.2 60.66 C 463.16 55.82 467.49 47.42 473.26 41.04 M 456.2 60.66 C 460.37 55.64 466.51 50.45 473.26 41.04 M 461.19 61.02 C 466.93 55.68 471.72 46.39 478.9 40.65 M 461.19 61.02 C 466.7 53.56 474.73 46.07 478.9 40.65 M 466.83 60.63 C 473.36 55.04 480.28 45.75 483.89 41.01 M 466.83 60.63 C 470.68 55.97 474.81 50.37 483.89 41.01 M 491.76 31.95 C 491.76 31.95 491.76 31.95 491.76 31.95 M 491.76 31.95 C 491.76 31.95 491.76 31.95 491.76 31.95 M 471.82 60.99 C 478.44 53.12 487.74 42.72 494.78 34.57 M 471.82 60.99 C 475.64 54.69 480.82 50.44 494.78 34.57 M 477.46 60.59 C 482.94 55.65 489.26 49.3 497.8 37.2 M 477.46 60.59 C 484.74 52.37 492.43 44.15 497.8 37.2 M 482.45 60.95 C 488.34 54.82 491.46 50.47 500.82 39.82 M 482.45 60.95 C 487.34 54.23 493.21 49.33 500.82 39.82 M 488.09 60.56 C 493.36 56.12 499.66 46.78 503.84 42.45 M 488.09 60.56 C 492.02 55.82 496.5 50.51 503.84 42.45 M 491.77 62.43 C 498.07 57.34 502.94 51.11 506.86 45.07 M 491.77 62.43 C 496.66 56.68 501.94 50.98 506.86 45.07 M 490.19 70.34 C 494.08 65.52 501.25 60.05 509.22 48.45 M 490.19 70.34 C 497.69 63.79 502.63 55.78 509.22 48.45" fill="none" stroke="#f5f5f5" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" transform="rotate(-5,445.94,49.69)" pointer-events="all"/>
+        <path d="M 402.26 39.09 M 402.26 39.09 C 432.21 38.92 462.97 37.87 489.62 39.09 M 402.26 39.09 C 420.81 39.54 440.6 38.8 489.62 39.09 M 489.62 39.09 C 488.83 37.29 488.78 33.44 489.62 29.69 M 489.62 39.09 C 490.03 35.46 489.43 32.54 489.62 29.69 M 489.62 29.69 C 498.6 36.76 507.49 47.2 510.94 49.69 M 489.62 29.69 C 495.53 35.52 501.86 40.35 510.94 49.69 M 510.94 49.69 C 501.87 55.59 494.19 64.01 489.62 69.69 M 510.94 49.69 C 504.11 55.22 497.36 62.88 489.62 69.69 M 489.62 69.69 C 490.06 66.3 488.77 62.33 489.62 60.29 M 489.62 69.69 C 489.5 67.08 489.6 63.97 489.62 60.29 M 489.62 60.29 C 458.49 59.67 422.58 59.37 402.26 60.29 M 489.62 60.29 C 471.05 61.11 451.75 60 402.26 60.29 M 402.26 60.29 C 402 64.01 401.5 67.57 402.26 69.69 M 402.26 60.29 C 402.27 61.83 402.43 64.41 402.26 69.69 M 402.26 69.69 C 397.3 63.61 394.73 62.8 380.94 49.69 M 402.26 69.69 C 394.7 62.03 387.66 56.04 380.94 49.69 M 380.94 49.69 C 389.98 44.46 394.08 35.91 402.26 29.69 M 380.94 49.69 C 385.84 43.46 391.28 39.94 402.26 29.69 M 402.26 29.69 C 402.17 32.38 402.42 33.92 402.26 39.09 M 402.26 29.69 C 402.46 33.12 402.1 37.07 402.26 39.09" fill="none" stroke="#666666" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" transform="rotate(-5,445.94,49.69)" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
