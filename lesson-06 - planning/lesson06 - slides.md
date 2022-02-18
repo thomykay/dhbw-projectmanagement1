@@ -83,6 +83,10 @@ The Scrum Team may also invite other people to attend Sprint Planning to provide
 <!-- _backgroundColor: lightblue -->
 # Check out
 
+What's my #1 takeaway from today?
+
+➡️ worksheet
+
 ---
 <!-- _backgroundColor: lightblue -->
 
