@@ -13,13 +13,6 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 ## Lesson 07 - Scrum
 
 ---
-<!-- _backgroundColor: lightblue -->
-
-# Practice - xxx
-
-1. xx
-
----
 
 # Today's session
 
@@ -112,7 +105,7 @@ Scrum Masters are true leaders who serve the Scrum Team and the larger organizat
 
 1. **Invitation**
    1. How have the PM lectures so far enriched my perception about Project Management?
-   2. How do I connect the dots now - between PM, Scrum and the work in my organization?
+   2. How do I connect the dots now - between PM, Scrum, our project and the work in my organization?
 2. **How it works**
    1. 3+1 VIP chairs and the facilitator form an "inner circle". One chair stays empty. the outer circle listens.
    2. You can join the inner circle if you want to contribute. Then, one contributor leaves the inner circle.
@@ -136,6 +129,8 @@ Scrum Masters are true leaders who serve the Scrum Team and the larger organizat
 
 <!-- _backgroundColor: lightblue -->
 # Check out
+
+If the coming weekend would be a song. What song would it be?
 
 ---
 <!-- _backgroundColor: lightblue -->
