@@ -49,6 +49,15 @@ The Definition of Done creates transparency by providing everyone a shared under
 
 ---
 
+# A good definition of Done is...
+
+* **clear** - write it in plain language so everyone understands and there’s no ambiguity
+* **testable** - a key way to make it clear is to ensure that it’s a black and white decision whether each item in the checklist has been met
+* **concise** - if everyone can remember each item, they’re more likely to tick them off
+* **realistic** - document what you’re actually going to do, not your aspirations.
+
+---
+
 # Definition of Done - Examples
 
 ☑️Tests written and passing
