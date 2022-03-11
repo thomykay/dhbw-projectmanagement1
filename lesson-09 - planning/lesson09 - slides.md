@@ -13,17 +13,10 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 ## Lesson 09 - Planning
 
 ---
-<!-- _backgroundColor: lightblue -->
-
-# Practice - xxx
-
-1. xx
-
----
 
 # Today's session
 
-1. Going through the new mental models
+1. Some new mental models
 2. Planning
    1. The Why and What
    2. The How
@@ -161,6 +154,7 @@ Focus on the way in which a team tackles a task from the initial formation of th
 
 # Additional Material
 
+none!
 
 ---
 <!-- _backgroundColor:  LightGreen -->
