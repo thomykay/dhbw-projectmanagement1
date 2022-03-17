@@ -5,19 +5,14 @@ title: DHBW - Project Management 1 - Lesson 10
 author: Thomas Krause
 theme: default
 header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 10
+
 ---
+
 <!-- markdownlint-disable MD025 MD045 MD012 MD024 MD026 -->
 
 # Project Management 1
 
 ## Lesson 10 - Roundup
-
----
-<!-- _backgroundColor: lightblue -->
-
-# Practice - xxx
-
-1. xx
 
 ---
 
@@ -57,7 +52,7 @@ XP is a style of software development focusing on excellent applications of prog
 
 Origins: Mid 90s at Daimler Crysler, Kent Beck
 
-![bg right fit](graphics/xp%20bridge%20-%20values-principles-practices.png)
+![bg left fit](graphics/xp%20bridge%20-%20values-principles-practices.png)
 
 ---
 
@@ -126,7 +121,8 @@ An anti-pattern is a common response to a recurring problem that is usually inef
 
 ## Examples
 
-* Anti-Pattern: Design by committee: The result of having many contributors to a design, but no unifying vision
+* **Anti-Pattern "Design by committee"** - The result of having many contributors to a design, but no unifying vision
+* **SW Pattern "Facade"** - Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use.
 
 ---
 <!-- _backgroundColor:  LightGreen -->
