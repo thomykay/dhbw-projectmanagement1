@@ -178,5 +178,5 @@ none!
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=173569)
+* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/edit.php?id=180663)
 
