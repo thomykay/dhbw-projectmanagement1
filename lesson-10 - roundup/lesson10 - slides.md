@@ -27,6 +27,12 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 ---
 
+<!-- _backgroundColor: lightblue -->
+
+# Practice - Backlog Refinement
+
+---
+
 # Agile Testing
 
 **Agile testing** is software testing that follows the best practices of **Agile development**. Agile testing involves all members of a **cross-functional agile team**, with special expertise contributed by testers, to ensure delivering the business value desired by the customer at frequent intervals, working at a sustainable pace.
