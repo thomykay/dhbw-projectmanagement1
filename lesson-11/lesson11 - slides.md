@@ -56,7 +56,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 ---
 <!-- _backgroundColor: lightblue -->
 
-# Practice - What we've achieved together (1-2-4-All)
+# Practice - What we've achieved together (1-2-4-All, 1-3-All)
 
 * **What do you think has been the biggest achievement of the project management sessions in the last 3 months?**
   * individual | team
@@ -64,8 +64,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
   * intended | unintended
 
 1. 1min⏲️ - individually, think about one achievement, worth noting. Emojis🥳 & #hashtags allowed
-2. Go in pairs for 2min⏲️ and shape one achievement, build on previous ideas
-3. Go in groups of 4 for 4min⏲️ and shape one achievement, build on previous ideas.
+2. Go in groups of 3 for 5min⏲️ and shape one achievement, build on previous ideas.
 
 ---
 <!-- _backgroundColor: lightblue -->
