@@ -18,11 +18,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 # Practice - Check in
 
 
-* **What do you think has been the biggest success of the project management sessions in the last 3 months?**
-  * individual | team
-  * observable | hidden
-  * intended | unintended
-  * Emojis🥳 & #hashtags allowed
+* The PM sessions in the last 3 months in 1..3 words...
 * Off to the chat!
 
 ---
@@ -43,6 +39,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 # (My) Objectives for this Course
 
 * My first project(s)
+  * Principles and mental models help to understand about what's going on around you and to apply practices in context.
 * Too many sources...
   * [PMI: Agile Certified Practitioner](https://firebrand.training/de/kurse/pmi/acp-agile-certified-practitioner-zertifizierung)
   * [scrum.org: Professional Scrum - Software Developer](https://www.scrum.org/resources/suggested-reading-professional-scrum-developer)
@@ -68,10 +65,20 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 
 1. 1min⏲️ - individually, think about one achievement, worth noting. Emojis🥳 & #hashtags allowed
 2. Go in pairs for 2min⏲️ and shape one achievement, build on previous ideas
-3. Go in groups of 4 for 4min⏲️ and shape one achievement, build on previous ideas 
+3. Go in groups of 4 for 4min⏲️ and shape one achievement, build on previous ideas.
 
 ---
+<!-- _backgroundColor: lightblue -->
+# Practice - Fishbowl
 
+1. **Invitation**
+   1. How did we work together to initiate the project, to plan, coordinate, review, to adjust our goals?
+   2. Which challenges and new opportunities did unfold during the course?
+   3. How might you take insights from course and apply them during the practice phase?
+2. **How it works**
+   1. 7+1 VIP chairs and the facilitator form an "inner circle". One chair stays empty. the outer circle listens.
+   2. You can join the inner circle if you want to contribute. Then, one contributor leaves the inner circle.
+---
 
 <!-- _backgroundColor: lightblue -->
 # Practice - Peer Review
@@ -99,18 +106,18 @@ In your teams, make 2 rounds
 ---
 
 <!-- _backgroundColor: lightblue -->
-# Practice - Check out
-
-* In your teams, make 2 rounds:
-  * Wofür möchtest du dich heute bei deinem Team bedanken?
-
----
-<!-- _backgroundColor: lightblue -->
 
 # Feedback
 
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=173569)
+* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/edit.php?id=181492)
 
+---
+
+<!-- _backgroundColor: lightblue -->
+# Practice - Check out
+
+* In your teams, make 2 rounds:
+  * Wofür möchtest du dich heute bei deinem Team bedanken?
