@@ -19,6 +19,8 @@ Additional material to listen, view and read.
 
 * [20 online energizers for virtual teams and remote meetings](https://www.sessionlab.com/blog/online-energizers/)
 * [In this article, I share 26 online energizers...](https://bigbangpartnership.co.uk/26-online-energizers-for-virtual-teams-and-remote-meetings/)
+* [19 Fun Large Group Energizers for Work or School in 2022](https://teambuilding.com/blog/large-group-energizers)
+* [Quick and simple activities to give your meetings and workshops a boost](https://teambuildingireland.com/7-energisers-to-brighten-up-your-meetings/)
 * [Perfection Game](https://liveingreatness.com/core-protocols/perfection-game/)
 * [Good enough for now, safe enough to try (GESET)](https://www.collaboratiohelvetica.ch/en/blog/2019/8/27/good-enough-for-now-safe-enough-to-try-geset)
 * [How to Facilitate Powerful Working Agreements](https://resources.scrumalliance.org/Article/facilitate-powerful-working-agreements)
@@ -28,7 +30,7 @@ Additional material to listen, view and read.
 
 ## 📃Events
 
-* [PM Camp Virtual - 29. und 30. April 2022](https://www.pm-camp.org/wpx/camps-vor-ort/virtuell/)
+* [PM Camp Virtual - 24. und 25. März 2022](https://www.pm-camp.org/wpx/camps-vor-ort/virtuell/)
 
 ## 🧸Misc
 
