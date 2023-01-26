@@ -118,5 +118,5 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=174233)
+* Your feedback to me
 
