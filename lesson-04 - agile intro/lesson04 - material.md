@@ -15,7 +15,7 @@
 
 ## 📃Events
 
-* [18. Liberating Structures User Group Stuttgart](https://www.xing.com/events/18-liberating-structures-user-group-3781913)
+* [22. Liberating Structures User Group Stuttgart – Live und in Farbe](https://www.meetup.com/liberating-structures-meetup/events/291136859/)
 
 ## 🧸Misc
 

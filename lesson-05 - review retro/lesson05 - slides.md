@@ -64,7 +64,7 @@ _footer: Source: [Scrum Guide](https://scrumguides.org/scrum-guide.html#sprint-r
 # Into Practice
 
 1. Sprint Review
-2. Srint Retrospective
+2. Sprint Retrospective
 
 ---
 
