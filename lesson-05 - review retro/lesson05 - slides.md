@@ -37,6 +37,19 @@ During the event, the Scrum Team and stakeholders review what was accomplished i
 <!--
 _footer: Source: [Scrum Guide](https://scrumguides.org/scrum-guide.html#sprint-review)
 -->
+
+---
+
+# Sprint Review - Schedule
+
+One way to do it...
+
+1. Look at **what** was achieved (and finished)
+2. Start the conversation about the current state. **Now what?**
+3. Make adaptations about the future direction. **So what?**
+
+See [What, So What, Now What? W³](https://www.liberatingstructures.com/9-what-so-what-now-what-w/)
+
 ---
 
 # The Sprint Retrospective
@@ -108,15 +121,6 @@ _footer: Source: [Scrum Guide](https://scrumguides.org/scrum-guide.html#sprint-r
 
 ---
 
-<!-- _backgroundColor: lightblue -->
-# Until next week
-
-* Next sprint starts with planning next week.
-* Feel invited to take a look in the material of the last few sessions.
-* You may spend some time to familiarize with some more mental models (expect them to be in the next sprint).
-* My Discord is open more often than you think...
-
----
 <!-- _backgroundColor: lightblue -->
 
 # Feedback
