@@ -125,8 +125,32 @@ Let's go onto the worksheet
 
 ---
 
+# Expectations until next week
+
+* Agile Product Development aka Scrum
+  * Recap on Scrum Roles, Artifacts, Ceremonies
+* Our Product
+  * Can we add sources and further reading links to the one-pagers?
+  * Can we add (our own) graphical elements to the one-pagers?
+* Our Practices
+  * Above might need to get used to diagrams.net. Learning groups?
+  * Scrum Masters: Can we work on a common Definition of Done?
+  * Is branching/PR established across teams?
+  * Start to own the sprint board.
+
+---
+
+# Proposal
+
+* 2x Sessions online
+* last session (March 24th) in presence
+
+---
+
 <!-- _backgroundColor: lightblue -->
 # Check out
+
+If the coming weekend would be a song. What song would it be?
 
 ---
 <!-- _backgroundColor: lightblue -->

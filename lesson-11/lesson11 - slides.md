@@ -26,7 +26,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 # Today's session
 
 1. Welcome Guests
-2. (A slightly different) Review 
+2. (A slightly different) Review
    1. **Why** we did what we did
    2. **What** we've achieved together (1-2-4-All)
    3. **How** we did what we did (Fishbowl)
@@ -111,7 +111,7 @@ In your teams, make 2 rounds
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/edit.php?id=181492)
+* Your feedback to me.
 
 ---
 
