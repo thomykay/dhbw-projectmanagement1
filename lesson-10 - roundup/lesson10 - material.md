@@ -1,4 +1,4 @@
-# Lesson %lession% - Material
+# Lesson 10 - Material
 
 ## 📚Books
 
