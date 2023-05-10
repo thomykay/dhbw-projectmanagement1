@@ -4,7 +4,7 @@ paginate: true
 title: DHBW - Project Management 2 - Lesson 01
 author: Thomas Krause
 theme: default
-header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 01'
+header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 2 - Lesson 01'
 ---
 <!-- markdownlint-disable MD025 MD045 MD012 MD024 MD026 -->
 
