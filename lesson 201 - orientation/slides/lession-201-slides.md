@@ -102,6 +102,7 @@ Anwendungsproject Informatik ↔️ A multi product organization
    1. the product idea/proposal/vision, ideally as Canvas (use draw.io)
    2. team members (and roles known so far)
 2. Setup Github teams and repositories -> Admins (naming scheme helps)
+3. In your team wikis: Shape a team agreement canvas or custom)
 
 > We use this also as a communication back to "Web Engineering"
 
