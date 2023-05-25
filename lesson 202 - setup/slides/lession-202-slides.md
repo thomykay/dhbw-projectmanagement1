@@ -38,8 +38,8 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 2. pedigree
 3. gym-finder
 4. travelinsights
-5. ?
-6. ?
+5. dnd-evolved
+6. 
 
 ---
 
@@ -141,7 +141,6 @@ See [How To Create a Compelling Product Vision That Will Drive Your Team](https:
 
 * [Sociocracy 3.0 - Role Selection](https://patterns.sociocracy30.org/role-selection.html)
 * [Product Vision Statement](https://uxstudioteam.com/ux-blog/product-vision/)
-* 
 
 ---
 
