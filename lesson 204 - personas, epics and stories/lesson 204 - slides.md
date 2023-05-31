@@ -135,4 +135,4 @@ See [Replacing The User Story With The Job Story](https://jtbd.info/replacing-th
     * shape personas (your primary persona)
     * shape epics -> stories
 * Fill your product backlog (quality, not quantity)
-* Make your work tangible: persona template, hypothesis, test cards, epics/stories
+* **Make your work tangible**: persona template, hypothesis, test cards, epics/stories
