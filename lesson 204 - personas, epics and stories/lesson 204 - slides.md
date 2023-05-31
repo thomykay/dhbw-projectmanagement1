@@ -18,9 +18,9 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 3. Some Practice (Backlog Refinement)
    1. Your first Persona
    2. Your first (?) Epic... and respective Stories
-4. Each team: Share 3min the outcome of your backlog refinement
+4. Each team: Share 5min the outcome of your backlog refinement to a delegate
 5. Evaluation Feedback
-6. Checkout
+6. Expectations
 
 ---
 <!-- _backgroundColor: lightblue -->
