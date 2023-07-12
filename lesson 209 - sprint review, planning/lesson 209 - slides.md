@@ -92,3 +92,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 * Start the sprint with focus on the next sprint review
     * WebEngineering - use of web technologies incl. HTML, CSS, XML/XSLT and more
     * PM - Product Discovery/Delivery approach, team dynamics, coordination, artifacts (Persona, Product Vision, Stories, Backlog etc.)
+
+---
+
+![Alt text](graphics/FPXCa3uVEAIb83E.jpg)
