@@ -4,12 +4,11 @@ Additional material to listen, view and read.
 
 ## 📚Books
 
-* [Das kollegial geführte Unternehmen - Ideen und Praktiken für die agile Organisation von morgen](https://kollegiale-fuehrung.de/buch/), Bernd Oestereich, Claudia Schröder
 * [The Core Protocols V. 3.03](https://mccarthyshow.com/protocols/the-core-protocols-english-v3.03.pdf) - Jim McCarthy and Michele McCarthy
 
 ## 🎧Podcasts
 
-* [Scrum meistern](https://enablechange.de/podcast-scrum-meistern/) - Der Agile Podcast für Scrum Praktiker mit Denkanstößen, Tips und Inspirationen für deinen Arbeitsalltag, um Scrum effektiv für deine Umgebung zu nutzen.
+* [The Liberators Network](https://theliberators.buzzsprout.com/) - We talk about Scrum, Liberating Structures, and creating better workplaces. This podcast is created by Christiaan Verwijs and Barry Overeem.
 
 ## 📺Videos
 
@@ -27,10 +26,6 @@ Additional material to listen, view and read.
 * [Atlassian Team Playbook: Working Agreements](https://www.atlassian.com/team-playbook/plays/working-agreements)
 * [Working Agreements: A Starting Guide + Template](https://blog.bonus.ly/working-agreements)
 * [WHY DO YOU NEED A TEAM AGREEMENT?](https://www.collaborationsuperpowers.com/42-how-to-create-a-team-agreement-for-your-remote-team/)
-
-## 📃Events
-
-* [PM Camp Virtual - 24. und 25. März 2022](https://www.pm-camp.org/wpx/camps-vor-ort/virtuell/)
 
 ## 🧸Misc
 

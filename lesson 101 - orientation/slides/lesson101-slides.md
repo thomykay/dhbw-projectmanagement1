@@ -25,18 +25,18 @@ What concrete questions do I have towards project management?
 
 1. Find a partner (aka a breakout group with 1 participant) and share, 2 min each. ⏲️4min
 2. All: Come back to the whole group and do a second round with a different partner. ⏲️4min
-3. Debrief ⏲️4min
+3. [Debrief](https://facilitation-tools.org/debriefing-cube/?lang=en&id=4.5) ⏲️4min
 
 ---
 
 # Where are we, where do we start?
 
-* DHBW Karlsruhe - Project Management 1
-* 11 lessons from Jan 13th to Mar 24th 2022
+* DHBW Mosbach - Project Management 1
+* 11 lessons from Nov 29th to Feb 21th 2024
 * will lead to Project Management 2, combined with Web Engineering later this year
 * Today: Orientation
 * And who is the teacher?
-* English, Deutsch?
+* English, ~~Deutsch~~?
 
 ---
 
@@ -87,7 +87,7 @@ footer: 'Source: [Remote Team Agreements and Protocols](https://www.holloway.com
 2. Round: Clarifying Questions?
 3. ⏲️10min Perfection Round (Popup)
    1. Perfector rates the agreement on a scale of 1..10 based on how much value the Perfector believes he or she can add.
-   2. Perfector says **“What I liked about the agreement was X,”** and proceeds to list the qualities of the agreement the Perfector thought were of high quality or should be amplified.
+   2. Perfector says **“What I liked about the agreement is X,”** and proceeds to list the qualities of the agreement the Perfector thought were of high quality or should be amplified.
    3. Perfector offers the improvements to the agreement required for it to be rated a 10 by saying **“To make it a ten, you would have to do X.”**
 
 
@@ -113,6 +113,7 @@ and understand one another.
 # Practices we've used
 
 * [Impromptu Networking](https://www.liberatingstructures.com/2-impromptu-networking/)
+* [Debriefing (Cube)](https://facilitation-tools.org/debriefing-cube/?lang=en&id=5.7)
 * [Check In](https://liveingreatness.com/core-protocols/check-in/)
 * [Team Agreements, Working Agreements](https://blog.bonus.ly/working-agreements)
 * [Perfection Game](https://liveingreatness.com/core-protocols/perfection-game/)
@@ -150,7 +151,7 @@ and understand one another.
 * **Why**: Agile Project Practices are learned best when applied (and reflected)
 * **What**: Create an online site of mental models for teams to help practitioners (like you) to succeed in their first projects.
 * **How**:
-  * **People**: We work as 5 teams on a single "product". I will be the Product Owner. Customers tbd
+  * **People**: We work in multiple teams on a single "product". I will be the Product Owner. Customers tbd
   * **Processes**: Agile Project Liftoff, 3 weeks iterations, early (and continuous) deployments
   * **Tools**: vscode/IntelliJ, diagrams.net, markdown, Github Pages etc.
 
@@ -174,7 +175,7 @@ _footer: 'Source: [WHAT IS A PROJECT? – DEFINITION AND KEY CHARACTERISTICS](ht
 
 ---
 
-![120](graphics/mdl_wolkenmetapher.png)
+![Wolkenmetapher](graphics/cloud-metapher.drawio.svg)
 
 <!--
 _footer: 'Source: [Wolkenmetapher, Bernd Oestereich, Claudia Schröder](https://kollegiale-fuehrung.de/download-material/?download=32d2a638b7c48255b367075daafb22fd)'
@@ -201,14 +202,13 @@ _footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/l
 
 # Practice - Project Quotes Exploration
 
-1. Form 5 groups (of 4..5)
-2. Go to your respective frame in the worksheet
-3. Pick one of the quotes (⏲️10s, don't overthink)
-4. Work in the group to understand (write sticky notes)  ⏲️10min
+1. Form groups (of 4..5)
+1. Pick one of the quotes (⏲️10s, don't overthink)
+1. Work in the group to understand (write sticky notes)  ⏲️10min
    1. **What**'s behind this quote?
    2. **Now, what** else do you see here?
    3. **So, what** is the paradox, the both sides of the story?
-5. Come back to the whole group, share the quote and the paradox behind it. ⏲️5x2min
+1. Come back to the whole group, share the quote and the paradox behind it. ⏲️nx2min
 
 ---
 
@@ -217,8 +217,6 @@ _footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/l
 ![bg right:30% 80%](../../graphics/noun-tools-1544052.svg)
 
 # Tool Nugget
-
-## [https://timer.digital-wachsen.de/](https://timer.digital-wachsen.de/)
 
 ## [Agile Timer](https://github.com/jschirrmacher/timer)
 
