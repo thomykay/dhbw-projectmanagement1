@@ -1,0 +1,111 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="682px" height="272px" viewBox="-0.5 -0.5 682 272" content="&lt;mxfile&gt;&lt;diagram id=&quot;GNKyi_tq2j710Kq2mpSj&quot; name=&quot;Page-1&quot;&gt;3VdNb9swDP01BrZDAEd2vOzYpl122IACOfSsSrStVRYzWc7Hfv3EWHbspvvAUG9DL4n8SJHUox7jRMmqOqwt35afUYKOWCwPUXITMfYujf0nAccAxO9boLBKtlB8BjbqG7TgvEMbJaEOWAs5RO3UdgwKNAaEG2HcWtyP3XLUcgRseQGjMgjYCK7hwu1eSVe26HIx8P4Iqii7zPM4WCreOQegLrnE/QBKbqNkZRFdu6oOK9DE3ZiXDz+w9oVZMO53NrB2w47rJpwtYpn2W68bcqvdMZw5+9pQTdc5GjerTx258g7zbHs4G/2qCN+nGFr9eQyy1GCV7zOLMacW8/qx7kL7I1H0l8tXckrEKcAWhMqVoJSqAq0MTJb13rdjJpEyxNg4gRWt3kik5KUyBRVl6Sq9nayGTYnWzRzYiq6OxS8kGZ8eePXTnB6kS9KBbFQBs9gYCXTN5t68L5WDzZYLsu79UCDGXaWDuXYWH3stMapcaX3faSg99UeUjYU1bb1ZnoErU5xSpouwa4Ua7amGJM9zJgTFfwQnylGygZvMHrJF5i1cq8J4TEPesReGzzzrzzgUV9DbDqyDwwAKYluD76ezR+8SrMug+zD4+om2P4+RpJsN5WCE9AODh9FV9KHP6vaLIPDnxZ78t2K/K4+18vOVZjuijNiKYmHu9p5skoZtp8FOiem0eOcVwA31lsWNcYqqseCU9bd4qpwr76RMw7WmSwI71Dsv+snSfUJTDJQum9eidLmApUx/qfQle0iyv6P0NP2XUk8vpH7XDvb6on3+PO6CK0M/SWOWAzTo5YA1lnbPITDZiSxS9VUgu1JSkrFnX3h6wU4yWefZJd39a9iQ7vQF2F48xzaJ69Wy/fR2T0m3fzy/EJ9sg38Vye13&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="1" y="50" width="320" height="220" rx="33" ry="33" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 13.85 265.32 C 13.85 265.32 13.85 265.32 13.85 265.32 M 13.85 265.32 C 13.85 265.32 13.85 265.32 13.85 265.32 M 27.99 268.15 C 22.89 265.02 17.56 259.96 7.49 247.64 M 27.99 268.15 C 20.48 260.35 11 252.46 7.49 247.64 M 37.89 266.73 C 28.97 258.78 19.74 246.8 4.66 233.5 M 37.89 266.73 C 27.04 256.39 17.52 245.85 4.66 233.5 M 49.21 266.73 C 29.64 249.23 14.99 230.05 4.66 222.19 M 49.21 266.73 C 37.12 254.86 24.44 241.8 4.66 222.19 M 60.52 266.73 C 40.43 247.06 17.25 225.02 4.66 210.87 M 60.52 266.73 C 46.51 253.88 34.82 240.61 4.66 210.87 M 71.83 266.73 C 50.07 241.19 24.03 216.74 4.66 199.56 M 71.83 266.73 C 53.79 249.47 35.5 229.84 4.66 199.56 M 83.15 266.73 C 59.19 240.12 35.53 217.68 4.66 188.25 M 83.15 266.73 C 64 248.76 47.01 229.89 4.66 188.25 M 94.46 266.73 C 66.3 239.96 39 214.3 4.66 176.93 M 94.46 266.73 C 70.3 242.45 45.93 217.03 4.66 176.93 M 105.78 266.73 C 68.63 228.36 35.29 192.51 4.66 165.62 M 105.78 266.73 C 74.23 234.77 43.46 203.8 4.66 165.62 M 117.09 266.73 C 76.92 223.68 31.74 183.14 4.66 154.3 M 117.09 266.73 C 89.43 238.76 61.07 210.14 4.66 154.3 M 128.4 266.73 C 87.27 226.53 46.6 181.86 4.66 142.99 M 128.4 266.73 C 87.65 223.12 44.43 180.12 4.66 142.99 M 139.72 266.73 C 109.54 236.31 75.43 203.84 4.66 131.68 M 139.72 266.73 C 107.34 237.33 77.21 206.42 4.66 131.68 M 151.03 266.73 C 105.48 220.01 58.39 173.6 4.66 120.36 M 151.03 266.73 C 122.39 238.13 92.41 207.34 4.66 120.36 M 162.34 266.73 C 108.96 212.09 52.86 157.43 4.66 109.05 M 162.34 266.73 C 113.53 219.29 64.9 169.5 4.66 109.05 M 173.66 266.73 C 122.06 212.62 69.15 161.23 4.66 97.74 M 173.66 266.73 C 135.59 229.4 99.36 192.46 4.66 97.74 M 184.97 266.73 C 140.67 221.77 94.9 175.81 5.37 87.13 M 184.97 266.73 C 132.21 214.04 79.52 159.96 5.37 87.13 M 196.28 266.73 C 120.67 190.5 46.03 115.23 3.24 73.69 M 196.28 266.73 C 138.05 209.56 78.57 150.2 3.24 73.69 M 207.6 266.73 C 141.46 200.98 78.21 138.44 6.07 65.21 M 207.6 266.73 C 160.38 217.95 111.46 170.03 6.07 65.21 M 218.91 266.73 C 142.55 190.38 68.46 115.51 9.61 57.43 M 218.91 266.73 C 167.19 213.55 114.29 161.24 9.61 57.43 M 230.23 266.73 C 147.03 184.78 63.05 100.99 16.68 53.19 M 230.23 266.73 C 168.18 203.55 105.69 142.53 16.68 53.19 M 241.54 266.73 C 177.63 203.37 111.06 137.58 23.04 48.24 M 241.54 266.73 C 191.16 217.63 143.19 170.27 23.04 48.24 M 252.85 266.73 C 187.29 199.24 118.52 132.43 35.06 48.95 M 252.85 266.73 C 199.06 213.15 145.46 157.81 35.06 48.95 M 264.17 266.73 C 219.56 222.61 176.19 176.08 46.38 48.95 M 264.17 266.73 C 207.35 211.19 151.05 154.19 46.38 48.95 M 275.48 266.73 C 228.06 215.09 176.7 166.15 57.69 48.95 M 275.48 266.73 C 223.46 215.22 172.42 164.39 57.69 48.95 M 288.92 268.86 C 213.45 194.22 137.72 117.5 69.01 48.95 M 288.92 268.86 C 203.89 183.1 120.05 98.59 69.01 48.95 M 298.82 267.44 C 231.01 202.28 166.54 137.25 80.32 48.95 M 298.82 267.44 C 213.75 183.04 129.11 99.38 80.32 48.95 M 306.59 263.91 C 239.09 194.18 170.52 125.68 91.63 48.95 M 306.59 263.91 C 241.71 202.19 179.92 138.74 91.63 48.95 M 313.66 259.66 C 235.83 184.13 162.15 108.48 102.95 48.95 M 313.66 259.66 C 235.47 178.62 155.37 99.28 102.95 48.95 M 319.32 254.01 C 239.41 172.17 158.75 91.56 114.26 48.95 M 319.32 254.01 C 267.1 202.16 215.4 149.49 114.26 48.95 M 320.74 244.11 C 271.17 194.23 220.32 145.46 125.57 48.95 M 320.74 244.11 C 259.84 185.58 200.32 124.91 125.57 48.95 M 322.86 234.91 C 257.5 167.61 190.14 100.74 136.89 48.95 M 322.86 234.91 C 281.14 195.35 240.51 153.72 136.89 48.95 M 322.86 223.6 C 265.29 165.83 207.33 109.83 148.2 48.95 M 322.86 223.6 C 252.76 153.17 184.14 84.6 148.2 48.95 M 322.86 212.29 C 274.17 165.36 227.36 116.62 159.52 48.95 M 322.86 212.29 C 272.72 160.3 221.99 110.93 159.52 48.95 M 322.86 200.97 C 274.92 154.56 224.61 105.49 170.83 48.95 M 322.86 200.97 C 278.14 154.65 231.88 109.18 170.83 48.95 M 322.86 189.66 C 269.54 138.09 218.32 88.3 182.14 48.95 M 322.86 189.66 C 274.6 143.75 227.2 96.32 182.14 48.95 M 322.86 178.35 C 287.66 146.61 252.22 110 193.46 48.95 M 322.86 178.35 C 270.98 127.22 218.71 76.21 193.46 48.95 M 322.86 167.03 C 295.67 138.06 262.71 108.89 204.77 48.95 M 322.86 167.03 C 290.68 135.47 258.98 105.4 204.77 48.95 M 322.86 155.72 C 300.74 135.96 280.47 111.32 216.08 48.95 M 322.86 155.72 C 292.52 124.93 260.82 95.62 216.08 48.95 M 322.86 144.4 C 289.03 112.28 256.63 78.68 227.4 48.95 M 322.86 144.4 C 289.19 110.86 254.73 77.69 227.4 48.95 M 322.86 133.09 C 302.9 110.98 280.26 87.21 238.71 48.95 M 322.86 133.09 C 298.76 107.95 272.39 82.1 238.71 48.95 M 322.86 121.78 C 302.82 100.67 282.66 83.03 250.02 48.95 M 322.86 121.78 C 304.74 103.13 287.14 86.23 250.02 48.95 M 322.86 110.46 C 300.01 86.14 275.56 63.26 261.34 48.95 M 322.86 110.46 C 310.58 96.98 298.18 85.47 261.34 48.95 M 322.86 99.15 C 310.72 84.91 295.42 70.57 272.65 48.95 M 322.86 99.15 C 312.15 87.09 300.35 75.88 272.65 48.95 M 322.86 87.84 C 316.26 80.51 305.38 72.4 283.97 48.95 M 322.86 87.84 C 312.97 78.12 301.16 68.03 283.97 48.95 M 324.98 78.64 C 316.56 68.42 304.04 58.07 295.99 49.65 M 324.98 78.64 C 318.49 71.68 312.48 66.33 295.99 49.65" fill="none" stroke="#fff2cc" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 34 50 M 34 50 C 126.29 51.64 217.26 51.38 288 50 M 34 50 C 87.66 48.55 141.78 48.99 288 50 M 288 50 C 310 51.66 321.97 62.98 321 83 M 288 50 C 308.88 48.96 321.37 61.98 321 83 M 321 83 C 323.4 122.88 319.55 165.17 321 237 M 321 83 C 321.01 132.03 321.59 181.02 321 237 M 321 237 C 322.27 257.14 308.49 268.86 288 270 M 321 237 C 321.57 257.03 311.88 272.29 288 270 M 288 270 C 222.91 270.48 157.93 269.3 34 270 M 288 270 C 190.74 271.09 95.32 271.95 34 270 M 34 270 C 11.92 268.3 -0.17 258.71 1 237 M 34 270 C 14.19 270.07 0.06 259.13 1 237 M 1 237 C 0.26 189.69 -0.32 140.91 1 83 M 1 237 C 1.55 176.91 0.79 117.94 1 83 M 1 83 C 0.94 59.68 11.98 49.76 34 50 M 1 83 C 1.41 61.18 12.47 49.15 34 50" fill="none" stroke="#d6b656" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 318px; height: 1px; padding-top: 160px; margin-left: 3px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <ul style="font-size: 16px">
+                                    <li style="font-size: 16px">
+                                        A series of tasks
+                                    </li>
+                                    <li style="font-size: 16px">
+                                        has a specific timeline
+                                    </li>
+                                    <li style="font-size: 16px">
+                                        Well-done outcome (do things right)
+                                    </li>
+                                    <li style="font-size: 16px">
+                                        Short-term project team
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="3" y="165" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px">
+                    A series of taskshas a specific timeline...
+                </text>
+            </switch>
+        </g>
+        <rect x="361" y="50" width="320" height="220" rx="33" ry="33" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 374.16 265.63 C 374.16 265.63 374.16 265.63 374.16 265.63 M 374.16 265.63 C 374.16 265.63 374.16 265.63 374.16 265.63 M 387.6 267.75 C 381.14 261.96 373.95 254.85 367.09 247.25 M 387.6 267.75 C 379.79 259.93 371.7 252.33 367.09 247.25 M 397.5 266.34 C 389.28 256.85 379.31 251.65 364.26 233.11 M 397.5 266.34 C 386.76 254.85 374.9 241.83 364.26 233.11 M 408.81 266.34 C 394.7 251.53 379.22 236.8 364.26 221.79 M 408.81 266.34 C 400.01 256.61 389.65 245.55 364.26 221.79 M 420.13 266.34 C 404.22 251.61 392.94 238.43 364.97 211.18 M 420.13 266.34 C 401.71 248.48 382.79 228.82 364.97 211.18 M 431.44 266.34 C 413.95 250.97 396.81 232.96 364.97 199.87 M 431.44 266.34 C 417.47 251.89 400.77 235.2 364.97 199.87 M 442.75 266.34 C 413.23 234.23 381.55 204.98 364.97 188.56 M 442.75 266.34 C 426.65 249.12 407.35 232.5 364.97 188.56 M 454.07 266.34 C 426.96 241.48 402.06 215.36 364.97 177.24 M 454.07 266.34 C 432.16 245.39 410.49 222.05 364.97 177.24 M 465.38 266.34 C 445.39 243.75 419.95 221.6 364.97 165.93 M 465.38 266.34 C 444.07 244.64 422.29 222.68 364.97 165.93 M 476.69 266.34 C 442.25 232.48 409.25 198.74 364.97 154.62 M 476.69 266.34 C 448.3 235.76 416.47 203.91 364.97 154.62 M 488.01 266.34 C 448.02 224.21 403.81 186.27 364.97 143.3 M 488.01 266.34 C 444.91 223.42 401.41 179.33 364.97 143.3 M 499.32 266.34 C 446.93 212.42 390.96 160.58 364.97 131.99 M 499.32 266.34 C 468.88 235.13 440.51 205.42 364.97 131.99 M 510.63 266.34 C 459.47 212.92 406.44 160.72 364.97 120.68 M 510.63 266.34 C 471.24 225.37 430.2 184.45 364.97 120.68 M 521.95 266.34 C 488.97 231.35 453.86 197.06 364.97 109.36 M 521.95 266.34 C 468.1 213.81 414.42 158.5 364.97 109.36 M 533.26 266.34 C 476.62 209.31 420.86 154.23 364.97 98.05 M 533.26 266.34 C 484.76 219.24 437.61 171.04 364.97 98.05 M 544.58 266.34 C 480.37 201.56 415.86 134.86 364.97 86.73 M 544.58 266.34 C 505.93 228.32 469.01 189.82 364.97 86.73 M 555.89 266.34 C 491.88 205.77 430.08 143.57 362.85 73.3 M 555.89 266.34 C 502.05 210.82 447.74 156.47 362.85 73.3 M 567.2 266.34 C 502.05 202.06 440.6 141.16 366.39 65.52 M 567.2 266.34 C 503.97 200.14 437.74 134.07 366.39 65.52 M 578.52 266.34 C 496.96 181.7 412.3 98.92 369.92 57.74 M 578.52 266.34 C 533.89 220.62 487.02 175.57 369.92 57.74 M 589.83 266.34 C 528.2 205.04 465.02 140.96 376.99 53.5 M 589.83 266.34 C 520.27 195.98 451.99 127.9 376.99 53.5 M 601.14 266.34 C 541.4 205.71 482.48 146.44 383.36 48.55 M 601.14 266.34 C 544.21 209.15 486.75 152.42 383.36 48.55 M 612.46 266.34 C 558.15 211.49 503.65 156.3 395.38 49.26 M 612.46 266.34 C 533.57 189.15 456.2 111.77 395.38 49.26 M 623.77 266.34 C 563.05 204.69 499.51 144 406.69 49.26 M 623.77 266.34 C 576.62 219.71 529.07 173.82 406.69 49.26 M 635.09 266.34 C 581.82 213.95 528.42 158.43 418 49.26 M 635.09 266.34 C 565.64 195.88 495.62 125.16 418 49.26 M 649.23 269.17 C 569.55 191.38 490.77 110.79 429.32 49.26 M 649.23 269.17 C 586.18 202.21 520.04 138.26 429.32 49.26 M 659.13 267.75 C 603.52 210.33 546.65 153.78 440.63 49.26 M 659.13 267.75 C 606.42 216.27 555.98 165.23 440.63 49.26 M 666.2 263.51 C 603.22 201.55 541.54 141.02 451.95 49.26 M 666.2 263.51 C 587.81 185.25 509.65 107.1 451.95 49.26 M 673.98 259.98 C 630.87 218.28 588.5 173.48 463.26 49.26 M 673.98 259.98 C 624.11 210.12 575.5 161.59 463.26 49.26 M 679.63 254.32 C 629.15 203.48 577.6 150.32 474.57 49.26 M 679.63 254.32 C 618.58 193.27 556.13 130.72 474.57 49.26 M 681.05 244.42 C 624.2 184.39 564.71 125.98 485.89 49.26 M 681.05 244.42 C 603.97 168.23 529.29 93.2 485.89 49.26 M 683.17 235.23 C 631.42 185.58 580.4 134.46 497.2 49.26 M 683.17 235.23 C 641.99 194.1 600.05 153.22 497.2 49.26 M 683.17 223.91 C 628.03 173.22 577.65 118.02 508.51 49.26 M 683.17 223.91 C 628.73 171.09 576.17 119.55 508.51 49.26 M 683.17 212.6 C 619.46 149.61 557.21 84.98 519.83 49.26 M 683.17 212.6 C 639.36 169.07 598.05 127.05 519.83 49.26 M 683.17 201.29 C 637.9 155.59 594.34 114.15 531.14 49.26 M 683.17 201.29 C 637.45 154.49 591.9 107.97 531.14 49.26 M 683.17 189.97 C 647.5 154.41 613.12 119.4 542.45 49.26 M 683.17 189.97 C 629.12 136.19 573.14 80.26 542.45 49.26 M 683.17 178.66 C 650.37 143.83 620.06 111.4 553.77 49.26 M 683.17 178.66 C 652.18 145.49 618.95 114.46 553.77 49.26 M 683.17 167.34 C 642.85 127.98 604.31 89.41 565.08 49.26 M 683.17 167.34 C 635.03 121.01 588.97 73.67 565.08 49.26 M 683.17 156.03 C 652.7 123.41 618.36 93.09 576.4 49.26 M 683.17 156.03 C 649.16 122.43 615.05 87.22 576.4 49.26 M 683.17 144.72 C 649.31 111.29 615.69 78.23 587.71 49.26 M 683.17 144.72 C 653.43 115.08 623.7 85.23 587.71 49.26 M 683.17 133.4 C 660.88 109.44 637 85.99 599.02 49.26 M 683.17 133.4 C 664.18 113.74 643.25 93.51 599.02 49.26 M 683.17 122.09 C 664.11 102.76 648.38 85.72 610.34 49.26 M 683.17 122.09 C 656.37 92.84 627.43 66.16 610.34 49.26 M 683.17 110.78 C 662.57 89.92 638.94 68.96 621.65 49.26 M 683.17 110.78 C 669.56 95.83 655.51 81.12 621.65 49.26 M 683.17 99.46 C 665.21 84.15 650.18 65.06 632.96 49.26 M 683.17 99.46 C 667.49 84.85 654.36 70.31 632.96 49.26 M 683.17 88.15 C 669.33 71.86 654.36 59.19 644.28 49.26 M 683.17 88.15 C 671.42 77.27 660.96 65.34 644.28 49.26 M 685.29 78.96 C 672.7 68.76 663.77 57.69 656.3 49.96 M 685.29 78.96 C 675.05 69.6 665.47 59.57 656.3 49.96" fill="none" stroke="#d5e8d4" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 394 50 M 394 50 C 445.04 47.48 496.69 50.29 648 50 M 394 50 C 463.52 49.31 534.28 49.84 648 50 M 648 50 C 671.7 48.54 680.13 59.03 681 83 M 648 50 C 670.66 48.98 680.61 60.66 681 83 M 681 83 C 679.52 115.59 682.4 147.93 681 237 M 681 83 C 681.18 117.03 680.79 150.79 681 237 M 681 237 C 680.04 257.64 669.33 270.55 648 270 M 681 237 C 682.97 261.01 671.59 272.18 648 270 M 648 270 C 570.82 271.72 493.54 270.24 394 270 M 648 270 C 579.15 269.25 509.77 269.52 394 270 M 394 270 C 370.11 271.12 362.36 258.04 361 237 M 394 270 C 372.54 270.78 359.05 258.25 361 237 M 361 237 C 361.04 202.42 359.47 165.05 361 83 M 361 237 C 361.14 195.34 362.57 153.87 361 83 M 361 83 C 362.19 59.2 372.89 51.11 394 50 M 361 83 C 362.46 62.8 370.86 48.15 394 50" fill="none" stroke="#82b366" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 318px; height: 1px; padding-top: 160px; margin-left: 363px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <ul style="font-size: 16px">
+                                    <li style="font-size: 16px">
+                                        Physical good, software or service
+                                    </li>
+                                    <li style="font-size: 16px">
+                                        Permanent until retired
+                                    </li>
+                                    <li style="font-size: 16px">
+                                        Continually evolving
+                                    </li>
+                                    <li style="font-size: 16px">
+                                        Long-term product team
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="363" y="165" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="16px">
+                    Physical good, software or servicePerman...
+                </text>
+            </switch>
+        </g>
+        <rect x="1" y="0" width="100" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 20px; margin-left: 51px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 24px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap;">
+                                Projects
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="51" y="27" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="24px" text-anchor="middle" font-weight="bold">
+                    Projects
+                </text>
+            </switch>
+        </g>
+        <rect x="361" y="0" width="100" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 20px; margin-left: 411px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 24px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap;">
+                                Products
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="411" y="27" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="24px" text-anchor="middle" font-weight="bold">
+                    Products
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>

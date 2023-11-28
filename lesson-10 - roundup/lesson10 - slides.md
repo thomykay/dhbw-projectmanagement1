@@ -4,7 +4,7 @@ paginate: true
 title: DHBW - Project Management 1 - Lesson 10
 author: Thomas Krause
 theme: default
-header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 10
+header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 10'
 
 ---
 
@@ -150,5 +150,5 @@ An anti-pattern is a common response to a recurring problem that is usually inef
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/edit.php?id=180664)
+* Your feedback to me
 

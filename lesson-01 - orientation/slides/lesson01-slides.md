@@ -14,7 +14,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 ---
 
-<!-- backgroundColor: lightblue -->
+<!-- _backgroundColor: lightblue -->
 # Check In
 
 ``` none
@@ -24,16 +24,15 @@ What concrete questions do I have towards project management?
 ```
 
 1. Find a partner (aka a breakout group with 1 participant) and share, 2 min each. ⏲️4min
-2. All: Come back to the main session and do a second round with a different partner. ⏲️4min
-3. Debrief ⏲️2min
+2. All: Come back to the whole group and do a second round with a different partner. ⏲️4min
+3. Debrief ⏲️4min
 
 ---
-<!-- backgroundColor: default -->
 
 # Where are we, where do we start?
 
 * DHBW Karlsruhe - Project Management 1
-* 11 lessons from Jan 14th to Mar 25th 2022
+* 11 lessons from Jan 13th to Mar 24th 2022
 * will lead to Project Management 2, combined with Web Engineering later this year
 * Today: Orientation
 * And who is the teacher?
@@ -49,7 +48,6 @@ What concrete questions do I have towards project management?
 4. And more
    1. Tool Nugget
    2. More Material
-   3. Mental Models of the Week
 
 ---
 
@@ -81,7 +79,7 @@ footer: 'Source: [Remote Team Agreements and Protocols](https://www.holloway.com
 -->
 
 ---
-<!-- backgroundColor: lightblue -->
+<!-- _backgroundColor: lightblue -->
 
 # Perfection Game - Team Agreement
 
@@ -96,7 +94,7 @@ footer: 'Source: [Remote Team Agreements and Protocols](https://www.holloway.com
 ➡️ [Perfection Game](https://liveingreatness.com/core-protocols/perfection-game/)
 
 ---
-<!-- backgroundColor: lightblue -->
+<!-- _backgroundColor: lightblue -->
 
 # Team Agreement, what's left
 
@@ -109,17 +107,9 @@ to help participants be more alert and active;
 they can also be an important way of people getting to know
 and understand one another.
 ```
-
----
-<!-- backgroundColor: default -->
-
-# "What's in for me 🙂?"
-
-![](graphics/badges.drawio.svg)
-
 ---
 
-<!-- backgroundColor:  LightGreen -->
+<!-- _backgroundColor:  LightGreen -->
 # Practices we've used
 
 * [Impromptu Networking](https://www.liberatingstructures.com/2-impromptu-networking/)
@@ -130,7 +120,6 @@ and understand one another.
 * [Energizers](https://www.participatorymethods.org/glossary/energizer)
 
 ---
-<!-- backgroundColor:  default -->
 
 # My Objectives for this Course
 
@@ -166,14 +155,12 @@ and understand one another.
   * **Tools**: vscode/IntelliJ, diagrams.net, markdown, Github Pages etc.
 
 ---
-<!-- backgroundColor: default -->
 
 # How is your learning progress evaluated?
 
 * A reminder to our first team agreements
-* project outcome
-* Exam?
-* Details to be defined (soon)
+* Semester 1: project outcome, whole team
+* Semester 2: (Public) review, per product team
 
 ---
 
@@ -205,7 +192,7 @@ _footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/l
 
 ---
 
-# Project Management Institutations and Communities
+# Project Management Institutions and Communities
 
 ![](graphics/pm-institutions.drawio.svg)
 
@@ -220,7 +207,7 @@ _footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/l
 4. Work in the group to understand (write sticky notes)  ⏲️10min
    1. **What**'s behind this quote?
    2. **Now, what** else do you see here?
-   3. **So, what** what's the paradox, the both sides of the story?
+   3. **So, what** is the paradox, the both sides of the story?
 5. Come back to the whole group, share the quote and the paradox behind it. ⏲️5x2min
 
 ---
@@ -246,76 +233,7 @@ _footer: 'Source: [PMI: What is Project Management?](https://www.pmi.org/about/l
 [Your colorful bag of PM candies (and other stuff...)](../material/lesson01-material.md)
 
 ---
-
-<!-- _backgroundColor: Wheat -->
-
-![bg left:30% 80%](../../graphics/noun-networking-2148898.svg)
-
-# Mental Models of the Week
-
-* **Shu-Ha-Ri** - a Model that describes mastery paths
-* **Circle of Influence** - there is more we can influence than we think we can
-* **The Growth Mindset** - always stay open, there is no finish with learning
-* **People/Process/Technology** - how it all fits together to make projects successful
-* **All Models Are Wrong, Some Are Useful** - be aware that models are simplifications of reality
-
----
-<!-- _backgroundColor: Wheat -->
-
-# Mental Model - Shu-Ha-Ri
-
-![bg right:60% 80%](graphics/shu-ha-ri.drawio.svg)
-<!--
-footer: ''
--->
----
-<!-- _backgroundColor: Wheat -->
-
-# Mental Model - Circle of Influence
-
-![bg right:60% 80%](graphics/circle-of-influence.drawio.svg)
-
----
-<!-- _backgroundColor: Wheat -->
-
-# Mental Model - Growth Mindset
-
-![bg right:60% 80%](graphics/NewGrowthMindset2.png)
-
-<!--
-footer: 'Source: [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)'
--->
-
----
-<!-- _backgroundColor: Wheat -->
-
-# Mental Model - People/Processes/Tools
-
-![bg right:60% 80%](graphics/people-processes-tools.drawio.svg)
-
-<!--
-footer: ''
--->
----
-<!-- _backgroundColor: Wheat -->
-
-# All Models Are Wrong, Some Are Useful
-
-George E.P. Box
-
----
-<!-- backgroundColor: lightblue -->
-# Practice - Mental Models
-
-1. Form 5 groups, every group talks about 1 mental model
-2. Round: Everyone shares briefly what she/he remembers from the mental model. ⏲️7min
-   1. Make notes
-   2. Use **Bingo**
-3. What's you mutual understanding as a group? ⏲️5min
-   1. Make notes, draw connections
-
----
-<!-- backgroundColor: lightblue -->
+<!-- _backgroundColor: lightblue -->
 # Check out
 
 ``` none
@@ -332,5 +250,5 @@ What's my biggest learning or insight from today?
 ![bg right](../../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=172805)
+* Your feedback to me?
 

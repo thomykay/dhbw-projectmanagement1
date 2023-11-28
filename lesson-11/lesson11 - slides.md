@@ -17,19 +17,19 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 
 # Practice - Check in
 
-
-* The PM sessions in the last 3 months in 1..3 words...
-* Off to the chat!
+* Let's build a long sentence together, everyone adds a single word.
+* **Die PM sessions in the letzten 3 Monaten...**
 
 ---
 
 # Today's session
 
 1. Welcome Guests
-2. (A slightly different) Review 
+2. (A slightly different) Review
    1. **Why** we did what we did
    2. **What** we've achieved together (1-2-4-All)
-   3. **How** we did what we did (Fishbowl)
+   3. **How** we did what we did (Conversation Café)
+   4. **Now what**, what to take out of this? (Fishbowl)
 3. (A slightly different) Retrospective
    1. (short) Scrum Masters Peer Review
 
@@ -56,7 +56,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 ---
 <!-- _backgroundColor: lightblue -->
 
-# Practice - What we've achieved together (1-2-4-All, 1-3-All)
+# Practice - What we've achieved together (1-2-4-All)
 
 * **What do you think has been the biggest achievement of the project management sessions in the last 3 months?**
   * individual | team
@@ -64,33 +64,47 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
   * intended | unintended
 
 1. 1min⏲️ - individually, think about one achievement, worth noting. Emojis🥳 & #hashtags allowed
-2. Go in groups of 3 for 5min⏲️ and shape one achievement, build on previous ideas.
+2. 2min⏲️ - find a partner, share notes, go with a common achievement.
+3. 4min⏲️ - Find another pair, share notes, go with a common achievement.
+4. Share the results found in the groups.
+
+---
+<!-- _backgroundColor: lightblue -->
+# The Product created (kind of a Review, Conversation Café)
+
+* 4 "Tables"
+  * Product
+  * People
+  * Practices
+  * Tools/Technologies
+* 4x4min⏲️ Have a conversation on the tables about **"How did we bring *** to live?"**
 
 ---
 <!-- _backgroundColor: lightblue -->
 # Practice - Fishbowl
 
 1. **Invitation**
-   1. How did we work together to initiate the project, to plan, coordinate, review, to adjust our goals?
-   2. Which challenges and new opportunities did unfold during the course?
-   3. How might you take insights from course and apply them during the practice phase?
-2. **How it works**
-   1. 7+1 VIP chairs and the facilitator form an "inner circle". One chair stays empty. the outer circle listens.
-   2. You can join the inner circle if you want to contribute. Then, one contributor leaves the inner circle.
+   1. What questions would you like to ask our guests?
+   1. Now, how might you take insights from the course and apply them during the practice phase?
+
+1. **How it works**
+   1. 4+1 VIP chairs and the facilitator form an "inner circle". One chair stays empty. the outer circle listens.
+   1. You can join the inner circle if you want to contribute. Then, one contributor leaves the inner circle.
+
 ---
 
 <!-- _backgroundColor: lightblue -->
 # Practice - Peer Review
 
-In your teams, make 2 rounds
+In your teams,
 
-1. 1min⏲️ to consider appreciations.
-2. Individually, **share appreciations** for the work done by the Scrum Master (Scrum Master starts)
+1. Individually, 1min⏲️ to consider appreciations.
+2. Round: **share appreciations** for the work done by the Scrum Master (Scrum Master starts)
 3. **Cluster** by topic, when appropiate
-4. 1min⏲️ to consider improvement suggestions
-5. Individually, **share improvement suggestions**
+4. Individually, 1min⏲️ to consider improvement suggestions
+5. Round: **share improvement suggestions**
 
-![bg left:40% fit](graphics/s3%20-%20peer%20review.drawio.svg)
+![bg left:40% 70%](graphics/s3%20-%20peer%20review.drawio.svg)
 
 ---
 <!-- _backgroundColor:  LightGreen -->
@@ -98,6 +112,7 @@ In your teams, make 2 rounds
 
 * Core Protocols - [Check in](https://liveingreatness.com/core-protocols/check-in/)
 * Liberating Structures - [1-2-4-all](https://www.liberatingstructures.com/1-1-2-4-all/)
+* Liberating Structures - [Conversation Café](https://www.liberatingstructures.com/17-conversation-cafe/)
 * Liberating Structures - [Fishbowl](https://www.liberatingstructures.com/18-users-experience-fishbowl/)
 * Sociocracy 3.0 - [Peer Review](https://patterns.sociocracy30.org/peer-review.html)
 * Core Protocols - [Check out](https://liveingreatness.com/core-protocols/check-out/)
@@ -111,7 +126,7 @@ In your teams, make 2 rounds
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/edit.php?id=181492)
+* Your feedback to me.
 
 ---
 
@@ -119,4 +134,4 @@ In your teams, make 2 rounds
 # Practice - Check out
 
 * In your teams, make 2 rounds:
-  * Wofür möchtest du dich heute bei deinem Team bedanken?
+  * What would you like to thank your team for today?

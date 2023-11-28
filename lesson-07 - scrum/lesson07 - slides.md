@@ -4,7 +4,7 @@ paginate: true
 title: DHBW - Project Management 1 - Lesson 07
 author: Thomas Krause
 theme: default
-header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 07'
+header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 07'
 ---
 <!-- markdownlint-disable MD025 MD045 MD012 MD024 MD026 -->
 
@@ -37,15 +37,24 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 ---
 
+# Bonus Question: Who is leading a scrum team?
+
+---
+
+# Let's look at the dynamics of followership
+
+![bg left:40%](./graphics/scrum-lead-and-follow.svg)
+
+---
+
 # Responsibilities - Development Team
 
 * Creating a plan for the Sprint, the Sprint Backlog;
 * Instilling quality by adhering to a Definition of Done;
-* Adapting their plan each day toward the Sprint Goal; and,
+* Adapting their plan each day toward the Sprint Goal;
 * Holding each other accountable as professionals.
 
 <!-- _footer: Source: [Scrum Guide](https://scrumguides.org/scrum-guide.html#developers) -->
-
 
 ---
 
@@ -66,7 +75,7 @@ The Scrum Master is accountable for establishing Scrum as defined in the Scrum G
 
 The Scrum Master is accountable for the Scrum Team’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
 
-Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
+Scrum Masters serve the Scrum Team and the larger organization.
 
 <!-- _footer: Source: [Scrum Guide](https://scrumguides.org/scrum-guide.html#scrum-master) -->
 
@@ -75,6 +84,22 @@ Scrum Masters are true leaders who serve the Scrum Team and the larger organizat
 # Scrum Artifacts
 
 ![](graphics/scrum-artifacts.drawio.svg)
+
+---
+
+# Product Backlog - DEEP
+
+![](graphics/productbacklog-deep.drawio.svg)
+
+See also [here](https://www.visual-paradigm.com/scrum/what-is-deep-in-agile-product-backlog/)
+
+---
+
+# Story (Product Backlog Item) - INVEST
+
+![](graphics/userstory-invest.drawio.svg)
+
+See also [here](https://www.linkedin.com/pulse/what-scrum-invest-criteria-ryan-hart-mba/)
 
 ---
 
@@ -140,5 +165,5 @@ If the coming weekend would be a song. What song would it be?
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=177584)
+* Your feedback to me.
 

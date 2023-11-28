@@ -4,7 +4,7 @@ paginate: true
 title: DHBW - Project Management 1 - Lesson 09
 author: Thomas Krause
 theme: default
-header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 09
+header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 09'
 ---
 <!-- markdownlint-disable MD025 MD045 MD012 MD024 MD026 -->
 
@@ -139,7 +139,7 @@ Focus on the way in which a team tackles a task from the initial formation of th
 <!-- _backgroundColor: lightblue -->
 # Practice
 
-## Planning 1
+## Planning 1 - Why, What
 
 ---
 
@@ -147,6 +147,7 @@ Focus on the way in which a team tackles a task from the initial formation of th
 # Practice
 
 ## Planning 2
+
 ---
 
 <!-- _backgroundColor: LightPink -->
@@ -178,5 +179,5 @@ none!
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/edit.php?id=180663)
+* Your feedback to me
 

@@ -4,7 +4,7 @@ paginate: true
 title: DHBW - Project Management 1 - Lesson 08
 author: Thomas Krause
 theme: default
-header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 08
+header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 08'
 
 ---
 <!-- markdownlint-disable MD025 MD045 MD012 MD024 MD026 -->
@@ -60,23 +60,22 @@ The Definition of Done creates transparency by providing everyone a shared under
 
 # Definition of Done - Examples
 
-☑️Tests written and passing
-☑️Continuous Integration build passing
-☑️Cross-browser testing done on current top 5 browsers according to analytics
-☑️Google accessibility check passed
-☑️Code peer-reviewed
-☑️Documentation updated
-☑️Acceptance criteria met
+☑️ Tests written and passing
+☑️ Continuous Integration build passing
+☑️ Cross-browser testing done on current top 5 browsers according to analytics
+☑️ Google accessibility check passed
+☑️ Code peer-reviewed
+☑️ Documentation updated
+☑️ Acceptance criteria met
 
 ---
 
 # Definition of Done - Examples
 
-## A pretty good starting point...
+- “Done means coded to standards, reviewed, implemented with unit Test-Driven Development, tested with 100 percent test automation, integrated and documented.”
+- A pretty good starting point... [Git | Github Checklist ! READ ME!](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/wiki/Git-%7C-Github-Checklist-!-READ-ME!)
 
-[Git | Github Checklist ! READ ME!](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/wiki/Git-%7C-Github-Checklist-!-READ-ME!)
-
-## Our acceptance criteria are not really..
+## Our acceptance criteria are not really acceptance criteria
 
 The mental model is explained in our adapted one-pager format
 It contains text and an explaining image
@@ -98,6 +97,7 @@ It's published on GitHub Pages
 Let's go onto the worksheet
 
 ---
+<!-- _backgroundColor: lightblue -->
 
 # Practice - Let's continue with the Fishbowl
 
@@ -125,8 +125,32 @@ Let's go onto the worksheet
 
 ---
 
+# Expectations until next week
+
+* Agile Product Development aka Scrum
+  * Recap on Scrum Roles, Artifacts, Ceremonies
+* Our Product
+  * Can we add sources and further reading links to the one-pagers?
+  * Can we add (our own) graphical elements to the one-pagers?
+* Our Practices
+  * Above might need to get used to diagrams.net. Learning groups?
+  * Scrum Masters: Can we work on a common Definition of Done?
+  * Is branching/PR established across teams?
+  * Start to own the sprint board.
+
+---
+
+# Proposal
+
+* 2x Sessions online
+* last session (March 24th) in presence
+
+---
+
 <!-- _backgroundColor: lightblue -->
 # Check out
+
+If the coming weekend would be a song. What song would it be?
 
 ---
 <!-- _backgroundColor: lightblue -->
@@ -136,5 +160,5 @@ Let's go onto the worksheet
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=178322)
+* Your feedback to me.
 

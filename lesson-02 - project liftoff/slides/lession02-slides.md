@@ -18,7 +18,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 # Practice - Project Quotes Exploration
 
 1. Form 6 groups (of 5..6)
-2. Go to your respective frame in the worksheet
+2. Go to the worksheet (online) or the table (in-presence)
 3. Pick one of the quotes (⏲️10s, don't overthink)
 4. Work in the group to understand (write sticky notes)  ⏲️5min
    1. **What**'s behind this quote?
@@ -136,7 +136,7 @@ _footer: Source: [One-Pagers: A tool to quickly summarize a topic](http://urskr.
 
 1. Go together in pairs
 2. Create Tweets (140chars)
-   1. Go to our worksheet, find your frame;
+   1. Go to our worksheet, find your frame (online). Grab a post-it.
    2. Scan the shared material for the topic. ⏲️5min
    3. Individually, write a tweetable text on the topic. Share afterwards. ⏲️3min
    4. Repeat. ⏲️3min
@@ -182,7 +182,9 @@ _footer: Source: [Project Liftoff](https://www.projectmanagement.com/articles/27
 
 # Practice - Team Selection
 
-➡️ worksheet
+- use the room to form teams of 6+-2
+  - with a harmonized mix of individuals and experience
+- document in the ➡️ worksheet
 
 ---
 
@@ -204,7 +206,7 @@ _footer: Source: [Project Liftoff](https://www.projectmanagement.com/articles/27
 1. Everyone has setup a basic tool chain
    1. Git, IntelliJ, markdown editor, diagrams.net
    2. Git, vscode, markdown editor, diagrams.net
-2. Everyone has the [repository](https://github.com/dhbw-ka-pm/mentalmodels-for-teams.git) pulled from Github.
+2. Everyone has the [repository](https://github.com/dhbw-ka-pm/tinf22b6-mentalmodels-for-teams.git) pulled from Github.
 3. Done.
 
 ---
@@ -252,11 +254,10 @@ _footer: Source: [Project Liftoff](https://www.projectmanagement.com/articles/27
 <!-- _backgroundColor: lightblue -->
 # Check out
 
-1. All cameras disabled
-2. Popup round: Enable camera
-3. One ad-hoc word about today's session
-4. Repeat until all cameras are enabled.
-5. 🙏
+1. Popup round
+1. One ad-hoc word about today's session
+1. Repeat until ...
+1. 🙏
 
 ---
 <!-- _backgroundColor: lightblue -->
@@ -266,5 +267,5 @@ _footer: Source: [Project Liftoff](https://www.projectmanagement.com/articles/27
 ![bg right](../../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=173569)
+* Your feedback to me
 

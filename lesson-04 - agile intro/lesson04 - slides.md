@@ -31,13 +31,15 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 
 # Practice - Gain Expertise in Tooling
 
-1. In ⏲️6 x 4 minutes, share your expertise with the whole team
+1. Each team, grab a topic
    1. Markdown
    2. diagrams.net
    3. Github Pages
    4. Git
    5. vscode
-   6. IntelliJ
+   6. IntelliJ, vi, byo
+2. Take ⏲️10 minutes to collect the expertise we have in the whole team about this topic
+3. In ⏲️6 x 3 minutes, share your expertise with the whole team
 
 ---
 
@@ -47,7 +49,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 * The sprint board as an information radiator
 * Context, context, context... and more information
 * The thing with the assignee...
-* What's the definition of Done?
+* What's the Definition of Done?
 * Is there a reason to do a small team adjustment?
 
 ---
@@ -55,7 +57,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 
 # More Practice - Agile Intro
 
-* Let's go to our worksheet...
+* Let's go to the cards or our worksheet...
 
 ---
 
@@ -111,8 +113,8 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 
 * Remember the sprint goal: "Collaboratively get Mental Models for Teams online!"
 * Let's look at our sprint board...
-* Sprint Review at Feb 11th
-* (Project) Retrospective
+* Sprint Review, after the break...
+* (Project) Retrospective (next time)
 
 ---
 
@@ -127,5 +129,5 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=174788)
+* Your feedback to me.
 

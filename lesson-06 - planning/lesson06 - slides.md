@@ -49,6 +49,8 @@ The Scrum Team may also invite other people to attend Sprint Planning to provide
 * Planning 2
   * **How** will the chosen work get done?
 
+![bg left:50% 80%](graphics/sprint%20planning.drawio.svg)
+
 ---
 <!-- _backgroundColor: lightBlue -->
 
@@ -77,6 +79,15 @@ The Scrum Team may also invite other people to attend Sprint Planning to provide
 * Sprint Planning 1
 * Sprint Planning 2
 * [Sociocracy 3.0 - Role Selection](https://patterns.sociocracy30.org/role-selection.html)
+
+---
+<!-- _backgroundColor: lightblue -->
+# Until next session
+
+* Our sprint 02 has started Let's scrum!
+* Feel invited to take a look in the material of the last few sessions.
+* You may spend some time to familiarize with some more mental models (expect them to be in the next sprint).
+* My Discord is open more often than you think...
 
 ---
 

@@ -23,7 +23,7 @@
 
 ## 📃Events
 
-* [Scrum User Group Stuttgart -Comfort and psychological safety](https://www.xing.com/events/scrum-user-group-stuttgart-comfort-psychological-safety-3771205)
+* n/a
 
 ## 🧸Misc
 
