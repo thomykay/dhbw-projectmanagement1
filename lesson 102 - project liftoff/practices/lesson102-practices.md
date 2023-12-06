@@ -23,5 +23,5 @@
 
 ### All Models Are Wrong, Some Are Useful
 
-* [https://jamesclear.com/all-models-are-wrong](https://jamesclear.com/all-models-are-wrong)
-* [https://fs.blog/all-models-are-wrong/](https://fs.blog/all-models-are-wrong/)
+* [All Models Are Wrong, Some Are Useful - James Clear](https://jamesclear.com/all-models-are-wrong)
+* [All Models Are Wrong](https://fs.blog/all-models-are-wrong/)

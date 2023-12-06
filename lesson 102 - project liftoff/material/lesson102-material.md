@@ -23,7 +23,7 @@
 
 ## 📃Events
 
-* n/a
+* [Innovation Culture Camp](https://innovationculture.camp/)
 
 ## 🧸Misc
 

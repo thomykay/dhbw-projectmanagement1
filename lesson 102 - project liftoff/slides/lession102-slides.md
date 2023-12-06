@@ -17,14 +17,14 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 # Practice - Project Quotes Exploration
 
-1. Form 6 groups (of 5..6)
+1. Form groups (of 4..5)
 2. Go to the worksheet (online) or the table (in-presence)
 3. Pick one of the quotes (⏲️10s, don't overthink)
-4. Work in the group to understand (write sticky notes)  ⏲️5min
+4. Work in the group to understand (write sticky notes)  ⏲️7min
    1. **What**'s behind this quote?
    2. **So, what** else do you see here?
    3. **Now, what** what's the paradox, the both sides of the story?
-5. Come back to the whole group, share the quote and the paradox behind it. ⏲️5x1min
+5. Come back to the whole group, share the quote and the paradox behind it. ⏲️3x1min
 
 ---
 
@@ -44,7 +44,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 # Reminder
 
 * Energizer Crew
-* Work Agreements ➡️ Checker Crew
+* Team Agreements ➡️ Checker Crew
 
 ---
 
@@ -121,6 +121,7 @@ George E.P. Box
 ---
 
 # How to share knowledge (aka mental models)?
+
 
 ## Create a One-Pager using PairSensing
 
@@ -237,8 +238,8 @@ _footer: Source: [Project Liftoff](https://www.projectmanagement.com/articles/27
 
 # Additional Material
 
-[Your colorful bag of PM candies (and other stuff...) from Lesson 01](../material/lesson01-material.md)
-[More colorful candies - from Lesson 02](../material/lesson02-material.md)
+[Your colorful bag of PM candies (and other stuff...) from Lesson 01](../../lesson%20101%20-%20orientation/material/lesson101-material.md)
+[More colorful candies - from Lesson 02](../material/lesson102-material.md)
 
 ---
 <!-- backgroundColor:  LightGreen -->
