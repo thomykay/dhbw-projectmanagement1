@@ -119,6 +119,7 @@ _footer: 'Source: [How you can benefit from a growth mindset](https://www.atlass
 George E.P. Box
 
 ---
+![bg right:33% 100%](graphics/pairsensing-flipchart.jpeg)
 
 # How to share knowledge (aka mental models)?
 
@@ -131,7 +132,19 @@ Using the PairSensing workshop format, all of this will exist after one hour.
 <!--
 _footer: Source: [One-Pagers: A tool to quickly summarize a topic](http://urskr.blogspot.com/2014/03/one-pagers-tool-to-quickly-summarize.html)
 -->
+
 ---
+
+![bg](graphics/onepager-example-1.png)
+![bg](graphics/onepager-example-2.png)
+![bg](graphics/onepager-example-3.png)
+
+<!--
+_footer: Source: [Agile Planet - Fabian Schiller](https://leanpub.com/agileplanet)
+-->
+
+---
+
 <!-- _backgroundColor: Lightblue-->
 # Practice - Start with PairSensing (the Tweet part)
 
