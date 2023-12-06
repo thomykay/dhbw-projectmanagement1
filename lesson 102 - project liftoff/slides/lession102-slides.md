@@ -196,7 +196,7 @@ _footer: Source: [Project Liftoff](https://www.projectmanagement.com/articles/27
 
 # Practice - Team Selection
 
-- use the room to form teams of 6+-2
+- use the room to form teams of 5+-2
   - with a harmonized mix of individuals and experience
 - document in the ➡️ worksheet
 
