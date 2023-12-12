@@ -36,7 +36,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 # Today's session
 
 1. Liftoff
-   1. Team Selection
+   1. Tools and Tech
    2. Clarify Communication Tools
    3. Celebrate
 2. OK, where's the plan?
@@ -48,6 +48,12 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
    1. Mental Model(s) of the Week
    2. Tool Nugget
    3. More Material
+
+---
+
+## Tools and Tech
+
+➡️ worksheet
 
 ---
 
@@ -95,13 +101,12 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 # Additional Material
 
-[Grab the fruity candies](lesson03-material.md)
+[Grab the fruity candies](lesson103-material.md)
 
 ---
 <!-- backgroundColor:  LightGreen -->
 # Practices we've used
 
-* Team Selection
 * Sprint Planning
 * Sprint Goal
 
