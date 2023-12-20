@@ -15,8 +15,9 @@
 
 ## 📃Events
 
-* [22. Liberating Structures User Group Stuttgart – Live und in Farbe](https://www.meetup.com/liberating-structures-meetup/events/291136859/)
+* [5. Innovation Culture Camp](https://innovationculture.camp/)
 
 ## 🧸Misc
 
 * [5 Benefits of Agile Project Management](https://dzone.com/articles/benefits-of-agile-project-management)
+

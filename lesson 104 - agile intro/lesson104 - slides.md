@@ -32,14 +32,11 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 # Practice - Gain Expertise in Tooling
 
 1. Each team, grab a topic
-   1. Markdown
-   2. diagrams.net
-   3. Github Pages
-   4. Git
-   5. vscode
-   6. IntelliJ, vi, byo
-2. Take ⏲️10 minutes to collect the expertise we have in the whole team about this topic
-3. In ⏲️6 x 3 minutes, share your expertise with the whole team
+   1. Markdown, diagrams.net
+   1. vscode
+   1. Github Pages, Git
+1. Take ⏲️10 minutes to collect the expertise we have in the whole team about this topic
+1. In ⏲️6 x 3 minutes, share your expertise with the whole team
 
 ---
 
@@ -53,11 +50,32 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 * Is there a reason to do a small team adjustment?
 
 ---
+
+## Agile Manifesto
+
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+
+* ### Individuals and interactions ↔️ over Processes andTools
+
+* ### Working Software ↔️ over Comprehensive Documentation
+
+* ### Customer Collaboration ↔️ over Contract Negotiation
+
+* ### Responding to Change ↔️ over Following a Plan
+
+That is, while there is value in the items on the right, we value the items on the left more.
+
+<!-- _footer: Source: [Agile Manifesto](https://agilemanifesto.org/) -->
+
+---
 <!-- _backgroundColor: lightblue -->
 
 # More Practice - Agile Intro
 
-* Let's go to the cards or our worksheet...
+* Per team, pick one of the principle cards and explore for ⏲️7min
+  * What's your understanding of the principle?
+  * How does it map to the Agile values?
+* Share with the whole group, ⏲️2min per team
 
 ---
 
@@ -113,7 +131,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 
 * Remember the sprint goal: "Collaboratively get Mental Models for Teams online!"
 * Let's look at our sprint board...
-* Sprint Review, after the break...
+* Next: Sprint Review
 * (Project) Retrospective (next time)
 
 ---
