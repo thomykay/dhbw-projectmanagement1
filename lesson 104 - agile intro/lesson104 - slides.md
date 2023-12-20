@@ -131,8 +131,7 @@ That is, while there is value in the items on the right, we value the items on t
 
 * Remember the sprint goal: "Collaboratively get Mental Models for Teams online!"
 * Let's look at our sprint board...
-* Next: Sprint Review
-* (Project) Retrospective (next time)
+* Next: Sprint Review, Retrospective
 
 ---
 
