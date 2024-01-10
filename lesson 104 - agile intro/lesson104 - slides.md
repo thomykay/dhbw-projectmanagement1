@@ -55,7 +55,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
-* ### Individuals and interactions ↔️ over Processes andTools
+* ### Individuals and interactions ↔️ over Processes and Tools
 
 * ### Working Software ↔️ over Comprehensive Documentation
 

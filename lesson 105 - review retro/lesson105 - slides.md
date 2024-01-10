@@ -45,8 +45,8 @@ _footer: Source: [Scrum Guide](https://scrumguides.org/scrum-guide.html#sprint-r
 One way to do it...
 
 1. Look at **what** was achieved (and finished)
-2. Start the conversation about the current state. **Now what?**
-3. Make adaptations about the future direction. **So what?**
+2. Start the conversation about the current state. **So what?**
+3. Make adaptations about the future direction. **Now what?**
 
 See [What, So What, Now What? W³](https://www.liberatingstructures.com/9-what-so-what-now-what-w/)
 
@@ -89,7 +89,7 @@ _footer: Source: [Scrum Guide](https://scrumguides.org/scrum-guide.html#sprint-r
 
 * [What drives us - Autonomy, Mastery, Purpose](https://sketchplanations.com/autonomy-mastery-purpose)
 * [Context Switching and Productivity](https://blog.doist.com/context-switching/)
-* [Brooks Law](https://dzone.com/articles/applying-brooks-law-to-lines-of-communication-and)
+* [Brooks Law](https://effectiviology.com/brooks-law/)
 * [Eisenhower Matrix](https://todoist.com/productivity-methods/eisenhower-matrix)
 * [The Map Is Not the Territory](https://fs.blog/map-and-territory/)
 
@@ -116,8 +116,9 @@ _footer: Source: [Scrum Guide](https://scrumguides.org/scrum-guide.html#sprint-r
 <!-- _backgroundColor:  LightGreen -->
 # Practices we've used
 
-* Sprint Review
-* Sprint Retrospective
+* [Sprint Review](https://scrumguides.org/scrum-guide.html#sprint-review)
+* [Sprint Retrospective](https://scrumguides.org/scrum-guide.html#sprint-retrospective)
+* [Liberating Strctures: 1-2-4-all](https://www.liberatingstructures.com/1-1-2-4-all/)
 
 ---
 
@@ -128,5 +129,5 @@ _footer: Source: [Scrum Guide](https://scrumguides.org/scrum-guide.html#sprint-r
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
-* [Your feedback to me](https://moodle.dhbw.de/mod/feedback/view.php?id=175551)
+* Your feedback to me.
 
