@@ -22,7 +22,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 ---
 
-# Sprint Rituals
+# Sprint Events
 
 ![](graphics/scrum%20-%20sprint%20rituals.drawio.svg)
 
