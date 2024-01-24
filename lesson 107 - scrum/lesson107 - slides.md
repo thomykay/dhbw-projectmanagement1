@@ -27,13 +27,13 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 
 # Scrum Ceremonies
 
-![](../lesson-05%20-%20review%20retro/graphics/scrum%20-%20sprint%20rituals.drawio.svg)
+![](../lesson%20105%20-%20review%20retro/graphics/scrum%20-%20sprint%20rituals.drawio.svg)
 
 ---
 
 # Scrum Roles
 
-![](../lesson-06%20-%20planning/graphics/scrumroles.drawio.svg)
+![](../lesson%20106%20-%20planning/graphics/scrumroles.drawio.svg)
 
 ---
 
