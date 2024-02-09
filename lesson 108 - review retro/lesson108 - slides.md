@@ -5,6 +5,11 @@ title: DHBW - Project Management 1 - Lesson 08
 author: Thomas Krause
 theme: default
 header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project Management 1 - Lesson 08'
+html: true
+style: 
+small {
+  font-size: 0.1em;
+}
 
 ---
 <!-- markdownlint-disable MD025 MD045 MD012 MD024 MD026 -->
@@ -21,7 +26,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 2. Retrospective
    1. Whole Team (Retrospective) - Definition of Done
    2. Team Retrospective - SCARF
-3. Continued: PM Fishbowl
+3. PM Fishbowl
 
 
 ---
@@ -58,7 +63,7 @@ The Definition of Done creates transparency by providing everyone a shared under
 
 ---
 
-# Definition of Done - Examples
+# Definition of Done - Some examples
 
 ☑️ Tests written and passing
 ☑️ Continuous Integration build passing
@@ -73,7 +78,6 @@ The Definition of Done creates transparency by providing everyone a shared under
 # Definition of Done - Examples
 
 - “Done means coded to standards, reviewed, implemented with unit Test-Driven Development, tested with 100 percent test automation, integrated and documented.”
-- A pretty good starting point... [Git | Github Checklist ! READ ME!](https://github.com/dhbw-ka-pm/mentalmodels-for-teams/wiki/Git-%7C-Github-Checklist-!-READ-ME!)
 
 ## Our acceptance criteria are not really acceptance criteria
 
@@ -82,6 +86,32 @@ It contains text and an explaining image
 It's in our GitHub project
 At least one content-wise review cycle is done within the team
 It's published on GitHub Pages
+
+---
+<small>
+
+## DoD - Complete Example
+
+
+### Acceptance Criteria
+
+* Baguettes
+  * At least 18 inches long and 2 inches in diameter.
+  * Cooked for 20 minutes at 220 degrees.
+  * Golden brown all over after cooking.
+* Iced Buns
+  * At least 5 inches long and 3 inches high.
+  * Cooked for 15 minutes at 200 degrees.
+  * Icing covers at least 80% of the top of the bun and it has a Cherry on top
+
+### Definition of Done
+
+* All ingredients used were fresh.
+* The kitchen was clean at the time of preparation.
+* The product has been visually inspected after cooking and is attractive and defect-free.
+* 1 product in each batch has passed a taste test before the batch is put on sale.
+
+</small>
 
 ---
 
@@ -99,7 +129,7 @@ Let's go onto the worksheet
 ---
 <!-- _backgroundColor: lightblue -->
 
-# Practice - Let's continue with the Fishbowl
+# Practice - The Fishbowl 🐠
 
 1. **Invitation**
    1. How have the PM lectures so far enriched my perception about Project Management?
@@ -111,6 +141,7 @@ Let's go onto the worksheet
 ---
 
 <!-- _backgroundColor: LightPink -->
+
 ![bg left:40% 80%](../graphics/noun-material-2183336.svg)
 
 # Additional Material
@@ -124,6 +155,7 @@ Let's go onto the worksheet
 * (User Experience) Fishbowl
 
 ---
+<!-- _backgroundColor: lightblue -->
 
 # Expectations until next week
 
@@ -134,31 +166,36 @@ Let's go onto the worksheet
   * Can we add (our own) graphical elements to the one-pagers?
 * Our Practices
   * Above might need to get used to diagrams.net. Learning groups?
-  * Scrum Masters: Can we work on a common Definition of Done?
+  * Can we work on a common Definition of Done?
   * Is branching/PR established across teams?
   * Start to own the sprint board.
 
 ---
 
-# Proposal
+## Challenge
 
-* 2x Sessions online
-* last session (March 24th) in presence
+I'm not available next Wed.
+
+### Proposal
+
+* Can we do a session on Feb 9th, 13:30?
+* Another option: Feb 12th, 13:00
 
 ---
 
 <!-- _backgroundColor: lightblue -->
-# Check out
+
+## Check out
 
 If the coming weekend would be a song. What song would it be?
 
 ---
+
 <!-- _backgroundColor: lightblue -->
 
-# Feedback
+## Feedback
 
 ![bg right](../graphics/noun-feedback-4502385.svg)
 
 * My feedback to you.
 * Your feedback to me.
-

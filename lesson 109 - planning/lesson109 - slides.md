@@ -144,9 +144,20 @@ Focus on the way in which a team tackles a task from the initial formation of th
 ---
 
 <!-- _backgroundColor: lightblue -->
-# Practice
+## Practice - Planning 2 - What I Need From You
 
-## Planning 2
+Goals: Understand, coordinate across teams, coordinate within teams
+
+* **Understand**: Go into the teams and formulate 1..2 questions to the other teams/the PO
+* **Coordinate across teams**
+  * Proposals from within teams what to tackle
+  * Requests to other teams
+  * Respond to requests (yes, no, will try, or whatever)
+* **Coordinate within teams**: Support/deps from/to other teams?
+  * Information to other teams
+  * Requests to other teams
+  * Respond to requests (yes, no, will try, or whatever)
+* Finalize forecast (commit)
 
 ---
 
@@ -154,8 +165,6 @@ Focus on the way in which a team tackles a task from the initial formation of th
 ![bg left:40% 80%](../graphics/noun-material-2183336.svg)
 
 # Additional Material
-
-none!
 
 ---
 <!-- _backgroundColor:  LightGreen -->
