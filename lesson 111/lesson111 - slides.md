@@ -18,7 +18,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 # Practice - Check in
 
 * Let's build a long sentence together, everyone adds a single word.
-* **Die PM sessions in the letzten 3 Monaten...**
+* **The PM lectures in the last 3 months...**
 
 ---
 
@@ -51,9 +51,10 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 
 # Coarse grained Course Structure
 
-![](../lesson-01%20-%20orientation/slides/graphics/../../../lesson-01%20-%20orientation/slides/graphics/course-structure.drawio.svg)
+![Course Structure](<../lesson 101 - orientation/slides/graphics/course-structure.drawio.svg>)
 
 ---
+
 <!-- _backgroundColor: lightblue -->
 
 # Practice - What we've achieved together (1-2-4-All)
@@ -63,10 +64,9 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
   * observable | hidden
   * intended | unintended
 
-1. 1min⏲️ - individually, think about one achievement, worth noting. Emojis🥳 & #hashtags allowed
-2. 2min⏲️ - find a partner, share notes, go with a common achievement.
-3. 4min⏲️ - Find another pair, share notes, go with a common achievement.
-4. Share the results found in the groups.
+1. 2min⏲️ - individually, think about one achievement, worth noting. Emojis🥳 & #hashtags allowed
+1. 4min⏲️ - Go into groups, share notes, shape one common achievement, build on previous ideas.
+1. Share the results found in the groups.
 
 ---
 <!-- _backgroundColor: lightblue -->
@@ -77,7 +77,8 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
   * People
   * Practices
   * Tools/Technologies
-* 4x4min⏲️ Have a conversation on the tables about **"How did we bring *** to live?"**
+* 3x4min⏲️ Have a conversation on the tables about **"How did we bring *** to live?"**
+* Let's share insights.
 
 ---
 <!-- _backgroundColor: lightblue -->
@@ -94,7 +95,8 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
 ---
 
 <!-- _backgroundColor: lightblue -->
-# Practice - Peer Review
+
+# Practice - Peer Review (Skipped)
 
 In your teams,
 
@@ -114,7 +116,7 @@ In your teams,
 * Liberating Structures - [1-2-4-all](https://www.liberatingstructures.com/1-1-2-4-all/)
 * Liberating Structures - [Conversation Café](https://www.liberatingstructures.com/17-conversation-cafe/)
 * Liberating Structures - [Fishbowl](https://www.liberatingstructures.com/18-users-experience-fishbowl/)
-* Sociocracy 3.0 - [Peer Review](https://patterns.sociocracy30.org/peer-review.html)
+* Sociocracy 3.0 - [Peer Review](https://patterns.sociocracy30.org/peer-review.html) (Skipped)
 * Core Protocols - [Check out](https://liveingreatness.com/core-protocols/check-out/)
 
 ---
@@ -134,4 +136,4 @@ In your teams,
 # Practice - Check out
 
 * In your teams, make 2 rounds:
-  * What would you like to thank your team for today?
+  * What would you like to thank your team for looking back the work you did together?
