@@ -31,7 +31,7 @@ header: '![height:12](../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Project 
    3. **How** we did what we did (Conversation Café)
    4. **Now what**, what to take out of this? (Fishbowl)
 3. (A slightly different) Retrospective
-   1. (short) Scrum Masters Peer Review
+   1. (short) Scrum Masters Peer Review (skipped)
 
 ---
 <!-- backgroundColor:  default -->
