@@ -34,12 +34,10 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 * Team, Repo, (initial) team agreement, (initial) product vision, Github team
 
-1. borrowbuddy
-2. pedigree
-3. gym-finder
-4. travelinsights
-5. dnd-evolved
-6. 
+1. foo
+2. bar
+3. baz
+4. qux
 
 ---
 
@@ -146,9 +144,10 @@ See [How To Create a Compelling Product Vision That Will Drive Your Team](https:
 
 ## Expectations until next week
 
-* Complete Product idea, teams and team roles in **shared wiki**
+* optional: Complete Product idea, 
+* Teams and team roles in **shared wiki**
 * Team agreements in **team wikis**
-* Product Vision Statement documented in **team wikis**
+* optional: Product Vision Statement documented in **team wikis**
 
 ---
 <!-- _backgroundColor: lightblue -->

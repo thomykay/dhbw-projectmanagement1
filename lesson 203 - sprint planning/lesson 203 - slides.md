@@ -10,18 +10,19 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 # Today
 
-1. Intro Round - SM
+1. Catch up: Role Selection SM and PO
+2. Intro Round - SM
    1. PO and DevTeam: Recap Scrum Artifacts, Scrum Ceremonies
-2. Intro Round - PO
+3. Intro Round - PO
    1. SM and DevTeam: Recap XP Practices, Initial DoD
-3. Some Aspects about Product Discovery
-4. Intro Round - DevTeam/All
-5. Sprint Planning for first Sprint (25.05. - 14.06.)
+4. Some aspects about Product Discovery (short)
+5. Intro Round - DevTeam/All
+6. Sprint Planning for first Sprint (24.05. - 12.06.)
 
 ---
 <!-- _backgroundColor: lightblue -->
 
-# Intro Round - SMs (⏲️ 12min)
+# Intro Round - SMs (⏲️ 10min)
 
 1. All Team SMs, please work with me
 2. Meanwhile, PO and DevTeam
@@ -31,7 +32,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 ---
 <!-- _backgroundColor: lightblue -->
 
-# Intro Round - PO
+# Intro Round - PO (⏲️ 10min)
 
 1. All Team POs, work with me
 2. Meanwhile, SM and DevTeam
@@ -119,12 +120,13 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 ---
 <!-- _backgroundColor: lightblue -->
 
-# Intro Round - DevTeam, All (⏲️12min)
+# Intro Round - DevTeam, All (⏲️10min)
 
 * What should be the focus for the first sprint?
 * What kind of user interviews could we run?
 * How could we invalidate our hypotheses?
 * What prototypes could we build and use?
+* What technologies should we start to evaluate and learn?
   
 ---
 
@@ -132,11 +134,11 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 # Sprint Planning (⏲️12min)
 
-* What are potential **users/customers** you could speak to?
-* Which **tests/experiments** are fast and cheap to (in)validate your hypotheses?
+* Who are we building the product for? What are potential **users/customers** we could speak to?
+* Which **tests/experiments** are fast and cheap to (in)validate our hypotheses?
 * What could be a way to **demonstrate potential value** to potential users at the end of the sprint?
 
-* Shape the initial **Product Backlog** and the **Sprint Backlog**. What's your **Sprint Goal**?
+* Shape the initial **Product Backlog** and the **Sprint Backlog**. What's our **Sprint Goal**?
 * Cope with the current level of ambiguity, dance with it
 * Plan to go through **Learn/Build/Measure** multiple times in the sprint
 
@@ -144,11 +146,14 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 # Expectations till next week
 
-* Demonstrate to be able to come from planning to learning➡️doing as a team
-* Find into your roles and how to interact.
+* Demonstrate to be able to come from planning to learning ➡️ doing as a team
+* Find into your roles and how to interact. **Document** them in the shared wiki.
 * Make use of process(es) and tools (ie. Backlog refinement)
+* Have the **Github project** (backlogs, board) ready
+* **Document initial DoD** in the team wiki..
 
-* Each team: Share 3min about your first steps in the sprint
+###
+* Next time: Each team shares 3min about your first steps in the sprint
 
 ---
 <!-- _backgroundColor: lightblue -->
