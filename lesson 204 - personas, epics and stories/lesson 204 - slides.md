@@ -29,7 +29,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 ![bg right:25% 100%](graphics/babysteps.png)
 
-1. Go into teams and clarify what's worth sharing. ⏲️5min
+1. Go into teams and clarify what's worth sharing. ⏲️8min
    1. Categories: Tools & Technologies, Principles & Practices, People & Collaboration
    2. Experiences: We were successful, we struggled, we tried, we failed...
 2. Share with the whole group. ⏲️3min per team.
@@ -108,10 +108,10 @@ See [Replacing The User Story With The Job Story](https://jtbd.info/replacing-th
 ---
 <!-- _backgroundColor: lightblue -->
 
-## Practice - Your Backlog Refinement ⏲️30min
+## Practice - Your Backlog Refinement ⏲️25min
 
 1. Build your primary persona
-2. Shape (at least) one core epic and it's detailed user stories
+2. Shape (at least) one core epic and its detailed user stories
 3. Last 5min: Share the outcome with a delegate from another team
 
 ### See
@@ -128,11 +128,12 @@ See [Replacing The User Story With The Job Story](https://jtbd.info/replacing-th
 
 ## Expectations till next week
 
+### Optionals 
 * **Go out of the building**: Understand your users, do user interviews
     * Who are the people you can talk to?
-* With these insights, build hypotheses
-* With these hypotheses
-    * shape personas (your primary persona)
-    * shape epics -> stories
-* Fill your product backlog (quality, not quantity)
-* **Make your work tangible**: persona template, hypothesis, test cards, epics/stories
+* With these insights, **build hypotheses**
+* With these hypotheses, **shape personas** (your primary persona)
+  
+### Essentials  
+* **Shape the product backlog** with epics & stories (quality, not quantity)
+* **Make your work tangible**: document persona, hypotheses, test cards, epics/stories

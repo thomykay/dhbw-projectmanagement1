@@ -132,7 +132,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 <!-- _backgroundColor: lightblue -->
 
-# Sprint Planning (⏲️12min)
+# (beginning of) Sprint Planning (⏲️7min)
 
 * Who are we building the product for? What are potential **users/customers** we could speak to?
 * Which **tests/experiments** are fast and cheap to (in)validate our hypotheses?
