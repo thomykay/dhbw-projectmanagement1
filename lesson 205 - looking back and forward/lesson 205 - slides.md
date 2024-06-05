@@ -10,8 +10,9 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 ## Today
 
+1. Some reminders to increase clarity, quality and speed
 1. Looking over each others shoulders
-2. Improving things
+1. Improving things
 
 ---
 
@@ -68,18 +69,17 @@ See also [The Minimum Viable Product and the Minimal Marketable Product](https:/
 
 ---
 
-## What does it mean to be **READY**?
+## What does it mean to be **READY** for a story?
 
 1. Defined clearly enough that all team members understand what must be done
-   * Includes team-developed tasking, if needed
+   * Includes team-developed (sub)-tasks, if needed
    * Assume some ongoing discussion to refine, coordinate and clarify
 2. Includes clear statement of resulting business value that allows the Product Owner to prioritize
 3. Includes any required enabling specs, wire frames, etc.
-4. Fully meet INVEST criteria for user stories
+4. Meet INVEST criteria
    * Estimated and sized to complete easily within one sprint
 5. Free from external dependencies
-   * I.e. there is nothing beyond the team's control that must be done
-first in order to complete the story
+   * I.e. there is nothing beyond the team's control that must be done first in order to complete the story.
 
 See also [Definition of Ready@Scrum.inc](https://www.scruminc.com/definition-of-ready/)
 
@@ -87,11 +87,11 @@ See also [Definition of Ready@Scrum.inc](https://www.scruminc.com/definition-of-
 
 ## What does it mean to be **DONE**?
 
-1. "Definition of Done" (DoD) decided on beforehand - along with acceptance tests
-    * DoD can be standard across a group of common stories, or defined specifically for unique ones
-1. Done means the feature has been developed, tested AND meets all required acceptance tests
-1. Ideally, Done means the feature could be shipped to a customer
-1. Product Owner officially "Accepts" Done features back from Team at the Sprint Review meeting
+1. The "Definition of Done" (DoD) is decided beforehand.
+    * can be standard across a group of common stories, or defined specifically for unique ones
+1. Done means the feature has been developed, tested AND meets all required acceptance tests.
+1. Ideally, Done means the feature could be shipped to a customer.
+1. The Product Owner "Accepts" Done features back from team latest at the Sprint Review meeting.
 
 ---
 
@@ -102,6 +102,7 @@ See also [Definition of Ready@Scrum.inc](https://www.scruminc.com/definition-of-
 See also [Creating Effective Sprint Goals](https://www.romanpichler.com/blog/effective-sprint-goals)
 
 ---
+
 <!-- _backgroundColor: lightblue -->
 
 ## Practice - What can you learn from it? ⏲️15min
@@ -109,14 +110,21 @@ See also [Creating Effective Sprint Goals](https://www.romanpichler.com/blog/eff
 1. Check your **Definition of Done**. (How) does it help the team to deliver great quality?
 2. Consider to work with a **Definition of Ready**. What would be the minimum, how would you work with it?
 3. If not yet done, try to shape a **Sprint Goal** that is specific, measurable, achievable but ambitious.
+4. Have all the above documented in your team wiki.
 
 ---
 
-# Looking at...
+# Let's look at...
 
 * Product Backlogs
+  * Product Backlog Items and its content/structure
 * Sprint Backlogs
 * Sprint Boards
+
+---
+
+## Evaluation Feedback
+![height:500px](../lesson%20204%20-%20personas,%20epics%20and%20stories/graphics/feedback.png)
 
 ---
 <!-- _backgroundColor: lightblue -->
@@ -125,10 +133,10 @@ See also [Creating Effective Sprint Goals](https://www.romanpichler.com/blog/eff
 
 1. Steal from others (take only the best) in terms of
    * using labels
+   * used statuses
    * using sprints
-   * using epics
    * project views
-1. Massage your product backlog structure to become 1..2 steps better
+1. Massage your backlog and the respective backlog items to become 1..2 steps better
 
 ---
 
@@ -136,5 +144,5 @@ See also [Creating Effective Sprint Goals](https://www.romanpichler.com/blog/eff
 
 * **Finish the sprint**, work to achieve your goals to (in)validate your ideas, learn and (when appropriate) build a first working prototype
 * Next time
-  * We'll do a **Sprint Review**, so have your artifacts (persona, interview results, learnings, prototypes) ready
-  * We'll do a **Retrospective**. @scrummasters: I will work with you [here](https://github.com/dhbw-ka-pm/tinf22b6-shared/discussions/categories/scrum-masters) to prepare.
+  * We'll do a **Sprint Review**, so have your artifacts (persona, interview results, learnings, prototypes, tech stack decisions) ready
+  * We'll do a **Retrospective**. @scrummasters: I will work with you [here](https://github.com/dhbw-mos-pm/tinfo23-sem2-shared/discussions/categories/sm-general) to prepare.
