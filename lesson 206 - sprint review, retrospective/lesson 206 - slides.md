@@ -30,7 +30,7 @@ This first sprint was like... \<one word\>
 
 * is an informal meeting, no strict prescribed agenda
 * should be valuable for the team _and_ stakeholders
-* focuses on product outcome, what was achieved/learned
+* focuses on product **outcome**, what was achieved/learned, less about what was done (effort)
 * if possible: looks at a potentially shippable product/service
 
 ### Recap
@@ -61,9 +61,11 @@ The purpose of the Sprint Review is to **inspect the outcome of the Sprint and d
 ---
 <!-- _backgroundColor: lightblue -->
 
-## Sprint Review - Share with the whole course ⏲️15min
+## Sprint Review - Share with the whole course
 
 ![width:600px](graphics/five-finger-feedback.drawio.svg)
+
+How did it go? What did you learn? What was valuable? What was challenging?
 
 ---
 <!-- _backgroundColor: lightblue -->
@@ -71,7 +73,7 @@ The purpose of the Sprint Review is to **inspect the outcome of the Sprint and d
 ## Sprint Retrospective ⏲️25min
 
 * Scrum Master facilitates the Retrospective
-* Goal: Find opportunities to improve as a team. Horizon: Next sprint.
+* Goal: Find opportunities to improve your way of working as a team. Time horizon: Next sprint.
 * Outcome: 1..2 actionable tasks/experiments for the next sprint (will be in the backlog)
 
 ---
@@ -83,7 +85,7 @@ The purpose of the Sprint Review is to **inspect the outcome of the Sprint and d
    1. [Speedboat retrospective](https://www.agilealliance.org/how-to-improve-the-speedboat-retrospective/)
    2. [Start, Stop and Continue Retrospective](https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective)
    3. [KALM – Keep, Add, More, Less](https://www.funretrospectives.com/kalm-keep-add-more-less/)
-3. 	(Use our worksheet, if you like)
+3. 	(Use the templates on our worksheet, if you like)
 
 ---
 
@@ -91,7 +93,7 @@ The purpose of the Sprint Review is to **inspect the outcome of the Sprint and d
 
 * **Product Owners**
   * Bring the feedback from the sprint review into the product backlog
-  * Prepare the product backlog for the sprint planning (DEEP)
+  * Prepare the product backlog for the sprint planning ([D(E)EP](https://www.visual-paradigm.com/scrum/what-is-deep-in-agile-product-backlog/))
   * Have a preliminary goal for the next sprint
 * **Scrum Masters**
   * Work together with team and product owner to add the 1..2 improvement tasks into the backlog
