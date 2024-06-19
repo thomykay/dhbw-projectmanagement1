@@ -100,3 +100,4 @@ How did it go? What did you learn? What was valuable? What was challenging?
 * **Dev Teams**
   * ➡️ This is a simulation. Normally we don't have a 1 week break...
   * Support the product owner to prepare for the sprint planning
+  * **Decide on, get comfortable with your tech stack!**

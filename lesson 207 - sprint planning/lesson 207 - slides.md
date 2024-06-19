@@ -42,9 +42,9 @@ See also [Iron triangle project management and agile](https://www.atlassian.com/
 
 ---
 
-## Recap: Wolkenmetapher
+## Recap: Cloud Metapher
 
-![height:500px](<../lesson-01 - orientation/slides/graphics/mdl_wolkenmetapher.png>)
+![height:500px](<../lesson 101 - orientation/slides/graphics/mdl_wolkenmetapher.png>)
 
 <!--
 _footer: 'Source: [Wolkenmetapher, Bernd Oestereich, Claudia Schröder](https://kollegiale-fuehrung.de/download-material/?download=32d2a638b7c48255b367075daafb22fd)'
@@ -115,7 +115,7 @@ After a successful Sprint Planning:
 
 ## Sprint Planning - Preparation
 
-1. PO has defined a **Sprint Goal** (Outcome) and selected the associated Product Backlog Items (PBIs).
+1. PO has defined a preliminary **Sprint Goal** (Outcome) and selected the associated Product Backlog Items (PBIs).
 2. The selected PBIs were formulated in sufficient detail - preferably in collaboration with the development team, e.g. as part of a Product Backlog Refinement.
 3. The selected PBIs have been put in an order according to which the development team will work on them. This takes into account technical dependencies.
 4. The team has a **DoD**.
@@ -125,9 +125,9 @@ After a successful Sprint Planning:
 
 ## Sprint Planning - Process
 
-1. PO presents the sprint goal and the associated PBIs and answers comprehension questions from the team. The Sprint Goal should be documented on the Sprint Backlog in a way that is easy to read for all team members.
+1. PO presents the preliminary sprint goal and the associated PBIs and answers comprehension questions from the team. The Sprint Goal should be documented close to the backlog, in a way that is easy to read for all team members.
 2. (Estimation)
-3. The team makes a prediction to the product owner and stakeholders about what PBIs it will deliver at the end of the sprint according to the collaboratively written DoD. In this way, the Sprint Backlog is formed.
+3. The team makes a forecast to the product owner and stakeholders about what PBIs it will deliver at the end of the sprint according to the collaboratively written DoD. In this way, the Sprint Backlog is formed.
 
 ---
 
@@ -152,6 +152,7 @@ See [Sprint Planning Meeting](https://www.agile-academy.com/en/scrum-master/spri
 ## Expectations till next week
 
 * **Start the sprint**, work to achieve your goals to (in)validate your ideas, learn and iterate your product
+  * Now is the time to really step into building the product!
 * Don't forget your 1..2 **improvement issues**
 * Thomas: Evaluation Feedback
-* What's your wicked question in terms of developing products?
+* Be prepared: What's your wicked question in respect to developing products?
