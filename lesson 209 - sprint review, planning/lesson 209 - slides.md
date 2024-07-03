@@ -14,7 +14,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 ## Today
 
-1. Sprint Review with all Stakeholders (⏲️8min per team)
+1. Sprint Review with all Stakeholders (⏲️7min per team)
 2. Brief Feedback
 3. Some inspirations for sprint 3
 4. Sprint Planning in Teams
@@ -24,8 +24,10 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 
 ## Practice - Sprint #2 Review
 
-1. ⏲️8min per team
-2. Questions (to the team)
+
+1. ⏲️10min final preparation in the teams.
+1. ⏲️7min per team
+1. Questions (to the team)
    1. What did you achieve in the recent sprint?
    2. What's your favorite with the current state of the product?
    3. If you could change/add one thing, what would it be?
@@ -73,7 +75,7 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 ## Practice - Sprint Planning ⏲️20min
 
 1. What do we need to **understand** about these backlog items in order to fully commit to getting them done in the upcoming sprint?
-2. **How much** of the product backlog do we think we can complete in the upcoming sprint?
+2. **How much** of the product backlog do we think we can complete in the upcoming sprint? What can we skip aka not do?
 3. Do we need more **clarification** on this feature?
 
 ---
@@ -89,9 +91,10 @@ header: '![height:12](../../graphics/DHBW-Raute-Big-BGWeiss-01.png) DHBW - Proje
 * Have a clear goal for the last sprint
     * Converge: What's the maximal value you can achieve with minimum effort?
 
-* Start the sprint with focus on the next sprint review
-    * WebEngineering - use of web technologies incl. HTML, CSS, XML/XSLT and more
-    * PM - Product Discovery/Delivery approach, team dynamics, coordination, artifacts (Persona, Product Vision, Stories, Backlog etc.)
+* Start the sprint with the last sprint review in mind
+    * What's your potentially shippable product?
+    * WebEngineering - use of web technologies, your technology stack, architecture etc.
+    * PM - (Product Discovery/Delivery approach), team dynamics, coordination, roles, events, artifacts (Persona, Product Vision, Stories, Backlog etc.)
 
 ---
 
