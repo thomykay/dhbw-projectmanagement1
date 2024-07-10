@@ -106,18 +106,19 @@ An anti-pattern ... is a common response to a recurring problem that is usually 
 
 <!-- _backgroundColor: lightblue -->
 
-## Practice - Find Patterns ⏲️20min
+## Practice - Find Patterns ⏲️15min
 
-* What pattern did your team apply successfully?
-* What can other teams learn from you about how to make this pattern successful?
-* Share your findings with the other teams
+* What patterns did you observe working together as a team?
+* Any patterns that helped you to be successful?
+* What can other teams learn from you about how to apply (or prevent) these patterns?
+* ➡️ Share your findings with the other teams
 
 ---
 <!-- _backgroundColor: lightblue -->
 
-## Practice - A bit of Review prep
+## Practice - A bit of Review preparation
 
-* Each team sends two delegates to two other teams
+* Each team sends a delegates to another teams
 * 3 interview rounds with different aspects
 
 ---
@@ -125,11 +126,12 @@ An anti-pattern ... is a common response to a recurring problem that is usually 
 
 ## Practice - 1️⃣ People, Roles, Team ⏲️10min
 
-* How did you live the roles? PO, SM, Dev etc.
-* How did you live the team agreement(s)?
-* How did you master meetings - communication, coordination, collaboration?
-* How did you cope with conflicts?
-* How did you work with stakeholders?
+* How did you...
+  * live the roles? PO, SM, Dev etc.
+  * live the team agreement(s)?
+  * master meetings - communication, coordination, collaboration?
+  * cope with conflicts?
+  * work with stakeholders?
 
 ---
 <!-- _backgroundColor: lightblue -->
@@ -162,13 +164,13 @@ An anti-pattern ... is a common response to a recurring problem that is usually 
 
 ## More on evaluation
 
-* We'll do a final sprint review, 7min/12min per team
-* Make visible/transparent
-  * What did you achieve in the sprint, overall?
+* We'll do a final sprint review
+* use WebEngineering Guidelines
+* Furthermore, make tangible
+  * What did you achieve produc-wise?
   * How did you interact, live the roles?
   * How did you use/establish tools and processes?
   * How did you live the Agile values and principles?
-  * The state of the product, potential value
 * Consider **artifacts** and how you've used them
   * Team Agreements, DoD
   * **Discovery**: Product Vision, Hypotheses, Tests, Surveys, Prototypes, User Interviews
@@ -182,5 +184,5 @@ Code Repository, Wiki, other...
 * Reach the sprint goals
 * We end with a review of the products
   * joint review for Web Engineering and Project Management course
-  * max 12min per team, allow 5min for questions
+  * max 40min per team, allow 15min for questions
   * Team Evaluation - Thomas
